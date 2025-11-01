@@ -1,0 +1,35 @@
+# Data
+data/raw/
+*.csv
+*.tsv
+*.pdf
+data/processed/1_raw_text/
+data/processed/2_cleaned_text/
+data/processed/4_logs/
+
+# Models
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.h5
+*.pkl
+
+# Logs
+logs/
+runs/
+wandb/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Google drive
+.tmp.drivedownload/
+.tmp.driveupload/
