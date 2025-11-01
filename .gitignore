@@ -33,3 +33,6 @@ venv/
 # Google drive
 .tmp.drivedownload/
 .tmp.driveupload/
+
+# Auth
+Auth/*.json
