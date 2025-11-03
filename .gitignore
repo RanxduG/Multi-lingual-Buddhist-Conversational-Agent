@@ -3,9 +3,12 @@ data/raw/
 *.csv
 *.tsv
 *.pdf
-data/processed/1_raw_text/
-data/processed/2_cleaned_text/
-data/processed/4_logs/
+data/extractions/1_raw_text/
+data/extractions/2_cleaned_text/
+data/extractions/4_logs/
+data/analysis/*.json
+data/analysis/*.jsonl
+data/analysis/*.txt
 
 # Models
 *.pt

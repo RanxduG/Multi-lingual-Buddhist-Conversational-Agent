@@ -1,0 +1,70 @@
+
+================================================================================
+PREPROCESSING AND TOKENIZATION REPORT
+================================================================================
+Generated: 2025-11-03 09:08:19
+Input File: /content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/extractions/3_final_corpus/buddhist_corpus_combined_20251101_105228.txt
+Output Directory: /content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/preprocessed/
+Tokenizer: polyglots/SinLlama_v01
+================================================================================
+
+## 1. PREPROCESSING RESULTS
+
+Original corpus size: 5,387,097 characters
+Preprocessed corpus size: 5,340,601 characters
+Reduction: 0.86%
+
+Original tokens: 838,777
+Preprocessed tokens: 838,772
+Token reduction: 0.00%
+
+## 2. TOKENIZATION STATISTICS
+
+Total words (whitespace-split): 838,772
+Total tokens generated: 2,020,328
+Average tokens per word: 2.409
+
+Tokenizer vocabulary size: 139,336
+Unique tokens used: 9,853
+Vocabulary coverage: 7.07%
+
+## 3. VOCABULARY EXTENSION RECOMMENDATION
+
+⚠️ VOCABULARY EXTENSION: OPTIONAL (ANALYZE FRAGMENTED WORDS)
+
+Reasoning:
+- Good coverage with 2.409 tokens per word
+- Some fragmentation present but manageable
+- Decision depends on whether fragmented words are important Buddhist terms
+
+RECOMMENDATION:
+1. Review the "Top 50 Most Fragmented Words" list above
+2. If top words are core Buddhist terminology → extend vocabulary
+3. If top words are rare/typos → skip vocabulary extension
+
+Expected benefit if extending: Reduce to 1.8-2.2 tokens/word
+
+## 4. FILES GENERATED
+
+Preprocessed corpus: /content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/preprocessed/preprocessed_corpus.txt
+Preprocessing stats: /content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/preprocessed/preprocessing_stats.json
+This report: /content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/preprocessed/tokenization_report.txt
+
+## 5. NEXT STEPS
+
+Based on the analysis above:
+
+IF vocabulary extension NOT needed:
+  → Proceed to continual pretraining setup
+  → Use preprocessed corpus at: /content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/preprocessed/preprocessed_corpus.txt
+  → Configure training with LoRA/PEFT for efficiency
+
+IF vocabulary extension recommended:
+  → Extract top N fragmented words (N depends on recommendation above)
+  → Train new tokenizer on combined corpus (original + Buddhist)
+  → Initialize embeddings for new tokens
+  → Then proceed to continual pretraining
+
+================================================================================
+END OF REPORT
+================================================================================
