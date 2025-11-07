@@ -1,0 +1,16 @@
+{
+  "architecture": "MobileNetV2",
+  "num_classes": 2,
+  "input_size": [
+    224,
+    224
+  ],
+  "class_names": [
+    "Not Important",
+    "Important"
+  ],
+  "best_val_accuracy": 0.8571428571428571,
+  "training_samples": 248,
+  "validation_samples": 63,
+  "epochs_trained": 50
+}
