@@ -3,12 +3,18 @@ data/raw/
 *.csv
 *.tsv
 *.pdf
-data/extractions/1_raw_text/
-data/extractions/2_cleaned_text/
-data/extractions/4_logs/
+data/vision_extractions/1_raw_text/
+data/vision_extractions/2_cleaned_text/
+data/vision_extractions/4_logs/
+data/docai_extractions/1_raw_text/
+data/docai_extractions/2_cleaned_text/
+data/docai_extractions/4_logs/
 data/analysis/*.json
 data/analysis/*.jsonl
 data/analysis/*.txt
+data/page_classifier_data/images/important/*.png
+data/page_classifier_data/images/not_important/*.png
+
 
 # Models
 *.pt
