@@ -1,0 +1,19 @@
+{
+  "sinhala": {
+    "corpus_name": "Sinhala",
+    "num_texts": 10511,
+    "total_words": 2655157,
+    "total_characters": 17081737
+  },
+  "pali": {
+    "corpus_name": "Pali",
+    "num_texts": 0,
+    "total_words": 0,
+    "total_characters": 0
+  },
+  "total": {
+    "num_texts": 10511,
+    "total_words": 2655157,
+    "total_characters": 17081737
+  }
+}

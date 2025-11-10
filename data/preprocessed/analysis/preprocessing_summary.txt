@@ -1,0 +1,36 @@
+
+BUDDHIST CORPUS PREPROCESSING SUMMARY
+======================================================================
+
+RAW CORPUS (Before Preprocessing):
+  - Total PDFs: 34
+  - Total Pages: 10,511
+  - Total Words: 2,753,232
+  - Total Characters: 17,819,309
+
+AFTER CLEANING (English & URLs Removed):
+  - Total Pages: 10,511
+  - Total Words: 2,655,157
+  - Total Characters: 17,081,737
+  - Words Removed: 98,075 (3.6%)
+
+FINAL CORPORA (After Language Separation):
+  
+  Sinhala Corpus:
+    - Pages: 10,511
+    - Words: 2,655,157 (100.0%)
+    - Characters: 17,081,737
+    - File: sinhala_text_corpus.txt
+  
+  Pali Corpus:
+    - Pages: 0
+    - Words: 0 (0.0%)
+    - Characters: 0
+    - File: pali_text_corpus.txt
+
+NOTES:
+  - This corpus is suitable for perplexity evaluation with SinLlama
+  - Buddhist doctrinal text may show higher perplexity than general text
+  - Pali transliterations are separated for specialized analysis
+
+======================================================================
