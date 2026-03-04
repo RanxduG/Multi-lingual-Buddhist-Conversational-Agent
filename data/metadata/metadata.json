@@ -1,0 +1,2767 @@
+[
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "thripitaka-books",
+    "Author": {
+      "name": "Ananda Maithrie, Rev. Balangoda",
+      "DOB": "1896-09-23",
+      "Date_of_passing": "1998-07-18"
+    },
+    "book_name_si": "ත්‍රිපිටකය – දීඝනිකාය",
+    "book_name_en": "thripitaka – Digha Nikaya",
+    "number_of_pages": null,
+    "published_date": "2015-02-10",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmeTNhUU8zQ0Z1LUE/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/10/%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%b4%e0%b7%92%e0%b6%a7%e0%b6%9a%e0%b6%ba-%e0%b6%af%e0%b7%93%e0%b6%9d%e0%b6%b1%e0%b7%92%e0%b6%9a%e0%b7%8f%e0%b6%ba-thripitaka-digha-nikaya/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/thripitaka-books/ත්‍රිපිටකය – දීඝනිකාය_thripitaka – Digha Nikaya.pdf",
+    "file_size_mb": 133.71,
+    "sha256_checksum": "8b6d42f0510a931be6b1ba220abf0a2337fdadbace3f204598e39c68ca0c70f9",
+    "download_timestamp": "2025-11-19T10:54:04.225485",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Tripiṭaka category - will be web-scraped separately (hardcoded exclusion)",
+      "confidence": "hardcoded",
+      "analysis_date": "2025-11-23T12:31:44.640913"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "thripitaka-books",
+    "Author": {
+      "name": null,
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "ත්‍රිපිටකය – මජ්ජිම නිකාය",
+    "book_name_en": "thripitaka – Majjhima Nikay",
+    "number_of_pages": null,
+    "published_date": "2015-02-10",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmc0VUMkFqX1V0dzA/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/10/%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%b4%e0%b7%92%e0%b6%a7%e0%b6%9a%e0%b6%ba-%e0%b6%b8%e0%b6%a2%e0%b7%8a%e0%b6%a2%e0%b7%92%e0%b6%b8-%e0%b6%b1%e0%b7%92%e0%b6%9a%e0%b7%8f%e0%b6%ba-thri/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/thripitaka-books/ත්‍රිපිටකය – මජ්ජිම නිකාය_thripitaka – Majjhima Nikay.pdf",
+    "file_size_mb": 168.52,
+    "sha256_checksum": "e45e5efb362807ab409e470144a73e600f5e4209e636c1d23b477b8d2814685a",
+    "download_timestamp": "2025-11-19T10:54:15.266004",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Tripiṭaka category - will be web-scraped separately (hardcoded exclusion)",
+      "confidence": "hardcoded",
+      "analysis_date": "2025-11-23T12:31:44.640941"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "thripitaka-books",
+    "Author": {
+      "name": null,
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "ත්‍රිපිටකය – සංයුක්ත නිකාය",
+    "book_name_en": "thripitaka – Samyutta Nikaya",
+    "number_of_pages": null,
+    "published_date": "2015-02-10",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmc2tGNmtsdWQ5dzA/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/10/%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%b4%e0%b7%92%e0%b6%a7%e0%b6%9a%e0%b6%ba-%e0%b7%83%e0%b6%82%e0%b6%ba%e0%b7%94%e0%b6%9a%e0%b7%8a%e0%b6%ad-%e0%b6%b1%e0%b7%92%e0%b6%9a/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/thripitaka-books/ත්‍රිපිටකය – සංයුක්ත නිකාය_thripitaka – Samyutta Nikaya.pdf",
+    "file_size_mb": 84.39,
+    "sha256_checksum": "3113eda9b1709f2f7dc6ec5e2e6796873c3694d8f33eebdd3c8eae6f24fec710",
+    "download_timestamp": "2025-11-19T10:54:30.479767",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Tripiṭaka category - will be web-scraped separately (hardcoded exclusion)",
+      "confidence": "hardcoded",
+      "analysis_date": "2025-11-23T12:31:44.640950"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "thripitaka-books",
+    "Author": {
+      "name": null,
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "ත්‍රිපිටකය – අංගුත්තර නිකාය",
+    "book_name_en": "thripitaka – Anguttara Nikaya",
+    "number_of_pages": null,
+    "published_date": "2015-02-10",
+    "download_url": "https://drive.google.com/open?id=0B5RD8Fve5lhmem9ueVBaZE14SzQ&authuser=0",
+    "post_url": "https://download.ifbcnet.org/2015/02/10/%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%b4%e0%b7%92%e0%b6%a7%e0%b6%9a%e0%b6%ba-%e0%b6%85%e0%b6%82%e0%b6%9c%e0%b7%94%e0%b6%ad%e0%b7%8a%e0%b6%ad%e0%b6%bb-%e0%b6%b1%e0%b7%92/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/thripitaka-books/ත්‍රිපිටකය – අංගුත්තර නිකාය_thripitaka – Anguttara Nikaya.pdf",
+    "file_size_mb": 122.58,
+    "sha256_checksum": "348b505432a23e89c972512e3a3d638d257f47590d4b07150457dd429653071c",
+    "download_timestamp": "2025-11-19T10:54:39.495666",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Tripiṭaka category - will be web-scraped separately (hardcoded exclusion)",
+      "confidence": "hardcoded",
+      "analysis_date": "2025-11-23T12:31:44.640957"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "thripitaka-books",
+    "Author": {
+      "name": null,
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "ත්‍රිපිටකය – ඛුද්ධක නිකාය",
+    "book_name_en": "thripitaka – Khuddaka Nikaya",
+    "number_of_pages": null,
+    "published_date": "2015-02-10",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmX3g2TUJ4VzRucWM/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/10/%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%b4%e0%b7%92%e0%b6%a7%e0%b6%9a%e0%b6%ba-%e0%b6%9b%e0%b7%94%e0%b6%af%e0%b7%8a%e0%b6%b0%e0%b6%9a-%e0%b6%b1%e0%b7%92%e0%b6%9a%e0%b7%8f/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/thripitaka-books/ත්‍රිපිටකය – ඛුද්ධක නිකාය_thripitaka – Khuddaka Nikaya.pdf",
+    "file_size_mb": 105.71,
+    "sha256_checksum": "c0e32c1e26367ac958d16e73ad8a9d52c9741c95f5b5b795fb2dbeaae8fd08d7",
+    "download_timestamp": "2025-11-19T10:54:47.443310",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Tripiṭaka category - will be web-scraped separately (hardcoded exclusion)",
+      "confidence": "hardcoded",
+      "analysis_date": "2025-11-23T12:31:44.640964"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "thripitaka-books",
+    "Author": {
+      "name": null,
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "පාරාජිකා පාළි – විනය පිටකය",
+    "book_name_en": "Parajika Pali – Vinaya Pitakaya",
+    "number_of_pages": null,
+    "published_date": "2015-02-10",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmd2IybVpmTXZXb0U/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/10/%e0%b6%b4%e0%b7%8f%e0%b6%bb%e0%b7%8f%e0%b6%a2%e0%b7%92%e0%b6%9a%e0%b7%8f-%e0%b6%b4%e0%b7%8f%e0%b7%85%e0%b7%92-%e0%b7%80%e0%b7%92%e0%b6%b1%e0%b6%ba-parajika-pali-vinaya/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/thripitaka-books/පාරාජිකා පාළි – විනය පිටකය_Parajika Pali – Vinaya Pitakaya.pdf",
+    "file_size_mb": 134.57,
+    "sha256_checksum": "e1e655ef13a2c9fba90772885baf94a5ca1d6d5e821b5f1365182432f204650a",
+    "download_timestamp": "2025-11-19T10:54:53.591567",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Tripiṭaka category - will be web-scraped separately (hardcoded exclusion)",
+      "confidence": "hardcoded",
+      "analysis_date": "2025-11-23T12:31:44.640970"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "thripitaka-books",
+    "Author": {
+      "name": null,
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "පාචිත්තිය පාළි 01 – විනය පිටකය",
+    "book_name_en": "Pachiththiya Pali 01- Vinaya Pitakaya",
+    "number_of_pages": null,
+    "published_date": "2015-02-10",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmSzFCdmlIcVJRa3M/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/10/%e0%b6%b4%e0%b7%8f%e0%b6%a0%e0%b7%92%e0%b6%ad%e0%b7%8a%e0%b6%ad%e0%b7%92%e0%b6%ba-%e0%b6%b4%e0%b7%8f%e0%b7%85%e0%b7%92-01-%e0%b7%80%e0%b7%92%e0%b6%b1%e0%b6%ba-pachiththiya-pali-02-vinaya/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/thripitaka-books/පාචිත්තිය පාළි 01 – විනය පිටකය_Pachiththiya Pali 01- Vinaya Pitakaya.pdf",
+    "file_size_mb": 93.86,
+    "sha256_checksum": "ef6ca1f58104cde770b5a6a35bf24db46b5a72381d1ffe93a93929dbd37a37e8",
+    "download_timestamp": "2025-11-19T10:55:07.492258",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Tripiṭaka category - will be web-scraped separately (hardcoded exclusion)",
+      "confidence": "hardcoded",
+      "analysis_date": "2025-11-23T12:31:44.640976"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "thripitaka-books",
+    "Author": {
+      "name": null,
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "පාචිත්තිය පාළි 02 – විනය පිටකය",
+    "book_name_en": "Pachiththiya Pali 02- Vinaya Pitakaya",
+    "number_of_pages": null,
+    "published_date": "2015-02-10",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmYUZPaGUwSFo5RjA/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/10/%e0%b6%b4%e0%b7%8f%e0%b6%a0%e0%b7%92%e0%b6%ad%e0%b7%8a%e0%b6%ad%e0%b7%92%e0%b6%ba-%e0%b6%b4%e0%b7%8f%e0%b7%85%e0%b7%92-02-%e0%b7%80%e0%b7%92%e0%b6%b1%e0%b6%ba-pachiththiya-pali-02-vinaya/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/thripitaka-books/පාචිත්තිය පාළි 02 – විනය පිටකය_Pachiththiya Pali 02- Vinaya Pitakaya.pdf",
+    "file_size_mb": 67.15,
+    "sha256_checksum": "e5805c968026d815a46937dbb13dc00fd5332c097e29beb5d02f5563dc0c91e8",
+    "download_timestamp": "2025-11-19T10:55:22.631504",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Tripiṭaka category - will be web-scraped separately (hardcoded exclusion)",
+      "confidence": "hardcoded",
+      "analysis_date": "2025-11-23T12:31:44.640982"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "thripitaka-books",
+    "Author": {
+      "name": null,
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "මහාවග්ග පාළි 01 – විනය පිටකය",
+    "book_name_en": "MahâvaggaPali 01- Vinaya Pitakaya",
+    "number_of_pages": null,
+    "published_date": "2015-02-10",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmWGFqOHdJOFphVlU/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/10/%e0%b6%b8%e0%b7%84%e0%b7%8f%e0%b7%80%e0%b6%9c%e0%b7%8a%e0%b6%9c-%e0%b6%b4%e0%b7%8f%e0%b7%85%e0%b7%92-01-%e0%b7%80%e0%b7%92%e0%b6%b1%e0%b6%ba-mahavaggapali-01-vinaya/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/thripitaka-books/මහාවග්ග පාළි 01 – විනය පිටකය_MahâvaggaPali 01- Vinaya Pitakaya.pdf",
+    "file_size_mb": 139.48,
+    "sha256_checksum": "60d589cfa4641991e8d0118e93fdf31031ee829039766974eae078ed7b89fcc0",
+    "download_timestamp": "2025-11-19T10:55:32.779580",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Tripiṭaka category - will be web-scraped separately (hardcoded exclusion)",
+      "confidence": "hardcoded",
+      "analysis_date": "2025-11-23T12:31:44.640988"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "thripitaka-books",
+    "Author": {
+      "name": null,
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "මහාවග්ග පාළි 02 – විනය පිටකය",
+    "book_name_en": "MahâvaggaPali 02- Vinaya  Pitakaya",
+    "number_of_pages": null,
+    "published_date": "2015-02-10",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmVy03dXRGWTFteEE/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/10/%e0%b6%b8%e0%b7%84%e0%b7%8f%e0%b7%80%e0%b6%9c%e0%b7%8a%e0%b6%9c-%e0%b6%b4%e0%b7%8f%e0%b7%85%e0%b7%92-02-%e0%b7%80%e0%b7%92%e0%b6%b1%e0%b6%ba-mahavaggapali-02-vinaya/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/thripitaka-books/මහාවග්ග පාළි 02 – විනය පිටකය_MahâvaggaPali 02- Vinaya  Pitakaya.pdf",
+    "file_size_mb": 107.9,
+    "sha256_checksum": "df52ad2d806789b4515bf6075d01202913d66193ae039dc31f0227a985fb8029",
+    "download_timestamp": "2025-11-19T10:55:40.482246",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Tripiṭaka category - will be web-scraped separately (hardcoded exclusion)",
+      "confidence": "hardcoded",
+      "analysis_date": "2025-11-23T12:31:44.640994"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "books-related-to-the-tipitaka",
+    "Author": {
+      "name": "Ven. Wilgammula Sangharaja Thero",
+      "DOB": "1698-01-01",
+      "Date_of_passing": "1778-01-01"
+    },
+    "book_name_si": "මෛත්‍රී බුද්ධ වංශය නොහොත් අනාගත වංශය",
+    "book_name_en": "Maithree Buddha Wanshaya nohoth anagatha wanshaya",
+    "number_of_pages": 35,
+    "published_date": "2015-11-15",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmVVFRY01XYmdEVjA/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/11/15/%e0%b6%b8%e0%b7%9b%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93-%e0%b6%b6%e0%b7%94%e0%b6%af%e0%b7%8a%e0%b6%b0-%e0%b7%80%e0%b6%82%e0%b7%81%e0%b6%ba-%e0%b6%b1%e0%b7%9c%e0%b7%84%e0%b7%9c%e0%b6%ad/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/books-related-to-the-tipitaka/මෛත්‍රී බුද්ධ වංශය නොහොත් අනාගත වංශය_Maithree Buddha Wanshaya nohoth anagatha wanshaya.pdf",
+    "file_size_mb": 3.76,
+    "sha256_checksum": "1c0447f5ee32a2d8de9fb047622784d600b6ca20c7f4309c05f9e399fe3fe34e",
+    "download_timestamp": "2025-11-19T10:57:33.604488",
+    "copyright_analysis": {
+      "can_include_in_corpus": true,
+      "reason": "Public domain - author died in 1778 (>70 years ago)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641008"
+    },
+    "extraction": {
+      "status": "complete",
+      "extraction_timestamp": "2025-11-21T04:08:45.243834",
+      "extraction_duration_seconds": 101.11,
+      "page_info": {
+        "total_pages": 35,
+        "text_based_pages": 0,
+        "ocr_pages": 35,
+        "failed_pages": 0
+      },
+      "methods_used": {
+        "pdfplumber": 0,
+        "document_ai": 35,
+        "failed": 0
+      },
+      "page_classification": {
+        "cover": 1,
+        "toc": 0,
+        "content": 34,
+        "index": 0,
+        "blank": 0,
+        "other": 0
+      },
+      "quality_metrics": {
+        "ocr_confidence": {
+          "avg_confidence": 0.944,
+          "min_confidence": 0.905,
+          "max_confidence": 0.961,
+          "low_confidence_pages": [],
+          "distribution": {
+            "high_0.9_to_1.0": 35,
+            "medium_0.7_to_0.9": 0,
+            "low_below_0.7": 0
+          }
+        }
+      },
+      "file_paths": {
+        "raw_text_dir": "data/extracted/raw_text/books-related-to-the-tipitaka/මෛත්‍රී බුද්ධ වංශය නොහොත් අනාගත වංශය",
+        "filtered_text_dir": "data/extracted/filtered_text/books-related-to-the-tipitaka/මෛත්‍රී බුද්ධ වංශය නොහොත් අනාගත වංශය",
+        "book_metadata_dir": "data/extracted/book_metadata/books-related-to-the-tipitaka/මෛත්‍රී බුද්ධ වංශය නොහොත් අනාගත වංශය"
+      }
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "books-related-to-the-tipitaka",
+    "Author": {
+      "name": null,
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "පන්සිය පනස් ජාතක පොත් වහන්සේ",
+    "book_name_en": "Pansiya panas Jathaka poth wahanse",
+    "number_of_pages": 998,
+    "published_date": "2015-11-15",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmejB4ZlhnekdvUGM/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/11/15/%e0%b6%b4%e0%b6%b1%e0%b7%8a%e0%b7%83%e0%b7%92%e0%b6%ba-%e0%b6%b4%e0%b6%b1%e0%b7%83%e0%b7%8a-%e0%b6%a2%e0%b7%8f%e0%b6%ad%e0%b6%9a-%e0%b6%b4%e0%b7%9c%e0%b6%ad%e0%b7%8a-%e0%b7%80%e0%b7%84%e0%b6%b1/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/books-related-to-the-tipitaka/පන්සිය පනස් ජාතක පොත් වහන්සේ_Pansiya panas Jathaka poth wahanse.pdf",
+    "file_size_mb": 23.8,
+    "sha256_checksum": "1ab3662bf2f92b761aca7261109fa4cc20cc535d08020dcacc014dc5f2863021",
+    "download_timestamp": "2025-11-19T10:57:50.828294",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author information missing - cannot verify public domain status (conservative exclusion)",
+      "confidence": "low",
+      "analysis_date": "2025-11-23T12:31:44.641016"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "books-related-to-the-tipitaka",
+    "Author": {
+      "name": "Ven. Rerukane Chandawimala",
+      "DOB": "1891-07-19",
+      "Date_of_passing": "1991-07-04"
+    },
+    "book_name_si": "මහා සතිපට්ඨාන සූත්‍ර වර්ණනාව –",
+    "book_name_en": "Maha Sathipattana Suthra Warnanawa",
+    "number_of_pages": null,
+    "published_date": "2015-03-04",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmSlY1Yy1NdGdFNjQ/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/04/%e0%b6%b8%e0%b7%84%e0%b7%8f-%e0%b7%83%e0%b6%ad%e0%b7%92%e0%b6%b4%e0%b6%a7%e0%b7%8a%e0%b6%a8%e0%b7%8f%e0%b6%b1-%e0%b7%83%e0%b7%96%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb-%e0%b7%80%e0%b6%bb%e0%b7%8a/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/books-related-to-the-tipitaka/මහා සතිපට්ඨාන සූත්‍ර වර්ණනාව –_Maha Sathipattana Suthra Warnanawa.pdf",
+    "file_size_mb": 37.42,
+    "sha256_checksum": "3dd93fed7575ed64caab6cd407b69a0e02d5b65e8810f6cc9bd31dc31c7c1c12",
+    "download_timestamp": "2025-11-19T10:58:00.486929",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 1991, protection ends 2061 (36 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641027"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "books-related-to-the-tipitaka",
+    "Author": {
+      "name": "Ven. Kiribathgoda Gnanananda Thero",
+      "DOB": "1961-07-01",
+      "Date_of_passing": null
+    },
+    "book_name_si": "පිරුවාණා පොත් වහන්සේ",
+    "book_name_en": "Piruwana poth wahanse",
+    "number_of_pages": null,
+    "published_date": "2015-03-04",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmOXdqWDN0M0h6Q1U/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/04/%e0%b6%b4%e0%b7%92%e0%b6%bb%e0%b7%94%e0%b7%80%e0%b7%8f%e0%b6%ab%e0%b7%8f-%e0%b6%b4%e0%b7%9c%e0%b6%ad%e0%b7%8a-%e0%b7%80%e0%b7%84%e0%b6%b1%e0%b7%8a%e0%b7%83%e0%b7%9a-piruwana-poth-wahanse/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/books-related-to-the-tipitaka/පිරුවාණා පොත් වහන්සේ_Piruwana poth wahanse.pdf",
+    "file_size_mb": 88.11,
+    "sha256_checksum": "3070392f8352c60b920f1de0c2f9b34aeeedf063f7b093af60575dd916cfe5ef",
+    "download_timestamp": "2025-11-19T10:58:16.377547",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641034"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "books-related-to-the-tipitaka",
+    "Author": {
+      "name": "Ven.Heenatikubure Sumangala Nahimi",
+      "DOB": null,
+      "Date_of_passing": "1778-01-01"
+    },
+    "book_name_si": "මිලින්ද ප්‍රශ්නය",
+    "book_name_en": "Milind prashna",
+    "number_of_pages": null,
+    "published_date": "2015-03-04",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmTF9sUmE3VnZ0aUk/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/04/%e0%b6%b8%e0%b7%92%e0%b6%bd%e0%b7%92%e0%b6%b1%e0%b7%8a%e0%b6%af-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%81%e0%b7%8a%e0%b6%b1%e0%b6%ba-milind-prashna/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/books-related-to-the-tipitaka/මිලින්ද ප්‍රශ්නය_Milind prashna.pdf",
+    "file_size_mb": 183.2,
+    "sha256_checksum": "39764f2f5b05bc8e89a6a990d0fc5fbc7e32e74098acccbbab709fcadee65ac9",
+    "download_timestamp": "2025-11-19T10:58:26.092746",
+    "copyright_analysis": {
+      "can_include_in_corpus": true,
+      "reason": "Public domain - author died in 1778 (>70 years ago)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641041"
+    },
+    "extraction": {
+      "status": "complete",
+      "extraction_timestamp": "2025-11-21T04:52:43.900261",
+      "extraction_duration_seconds": 2638.6,
+      "page_info": {
+        "total_pages": 660,
+        "text_based_pages": 0,
+        "ocr_pages": 660,
+        "failed_pages": 0
+      },
+      "methods_used": {
+        "pdfplumber": 0,
+        "document_ai": 660,
+        "failed": 0
+      },
+      "page_classification": {
+        "cover": 1,
+        "toc": 1,
+        "content": 643,
+        "index": 8,
+        "blank": 0,
+        "other": 7
+      },
+      "quality_metrics": {
+        "ocr_confidence": {
+          "avg_confidence": 0.965,
+          "min_confidence": 0.904,
+          "max_confidence": 0.99,
+          "low_confidence_pages": [],
+          "distribution": {
+            "high_0.9_to_1.0": 660,
+            "medium_0.7_to_0.9": 0,
+            "low_below_0.7": 0
+          }
+        }
+      },
+      "file_paths": {
+        "raw_text_dir": "data/extracted/raw_text/books-related-to-the-tipitaka/මිලින්ද ප්‍රශ්නය",
+        "filtered_text_dir": "data/extracted/filtered_text/books-related-to-the-tipitaka/මිලින්ද ප්‍රශ්නය",
+        "book_metadata_dir": "data/extracted/book_metadata/books-related-to-the-tipitaka/මිලින්ද ප්‍රශ්නය"
+      }
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "books-related-to-the-tipitaka",
+    "Author": {
+      "name": "Dhammapala Thero",
+      "DOB": null,
+      "Date_of_passing": "0600-01-01"
+    },
+    "book_name_si": "ප්‍රේත වස්තුව",
+    "book_name_en": "Pretha Wasthu",
+    "number_of_pages": null,
+    "published_date": "2015-03-04",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmYjdfOUxwQ3h1ZUU/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/04/%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%9a%e0%b6%ad-%e0%b7%80%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%94%e0%b7%80-pretha-wasthu/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/books-related-to-the-tipitaka/ප්‍රේත වස්තුව_Pretha Wasthu.pdf",
+    "file_size_mb": 31.2,
+    "sha256_checksum": "99f0d8a8cbec6d04ff61febaa58afeb7d0a60df8ad116dc06440b15e8d879e69",
+    "download_timestamp": "2025-11-19T10:58:36.202088",
+    "copyright_analysis": {
+      "can_include_in_corpus": true,
+      "reason": "Public domain - author died in 600 (>70 years ago)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641048"
+    },
+    "extraction": {
+      "status": "complete",
+      "extraction_timestamp": "2025-11-21T05:16:08.633951",
+      "extraction_duration_seconds": 1404.66,
+      "page_info": {
+        "total_pages": 435,
+        "text_based_pages": 0,
+        "ocr_pages": 435,
+        "failed_pages": 0
+      },
+      "methods_used": {
+        "pdfplumber": 0,
+        "document_ai": 435,
+        "failed": 0
+      },
+      "page_classification": {
+        "cover": 0,
+        "toc": 5,
+        "content": 428,
+        "index": 0,
+        "blank": 2,
+        "other": 0
+      },
+      "quality_metrics": {
+        "ocr_confidence": {
+          "avg_confidence": 0.968,
+          "min_confidence": 0.937,
+          "max_confidence": 0.987,
+          "low_confidence_pages": [],
+          "distribution": {
+            "high_0.9_to_1.0": 435,
+            "medium_0.7_to_0.9": 0,
+            "low_below_0.7": 0
+          }
+        }
+      },
+      "file_paths": {
+        "raw_text_dir": "data/extracted/raw_text/books-related-to-the-tipitaka/ප්‍රේත වස්තුව",
+        "filtered_text_dir": "data/extracted/filtered_text/books-related-to-the-tipitaka/ප්‍රේත වස්තුව",
+        "book_metadata_dir": "data/extracted/book_metadata/books-related-to-the-tipitaka/ප්‍රේත වස්තුව"
+      }
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "books-related-to-the-tipitaka",
+    "Author": {
+      "name": "Dhammapala Thero",
+      "DOB": null,
+      "Date_of_passing": "0600-01-01"
+    },
+    "book_name_si": "විමානවස්තුව",
+    "book_name_en": "Vimana wasthu",
+    "number_of_pages": null,
+    "published_date": "2015-03-04",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmWk1CdUJRUW5GS00/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/04/%e0%b7%80%e0%b7%92%e0%b6%b8%e0%b7%8f%e0%b6%b1%e0%b7%80%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%94%e0%b7%80-vimana-wasthu/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/books-related-to-the-tipitaka/විමානවස්තුව_Vimana wasthu.pdf",
+    "file_size_mb": 72.28,
+    "sha256_checksum": "b09e1684fa84d53453582644505d24ed0e05982624a630da5450da8687c6cea7",
+    "download_timestamp": "2025-11-19T10:58:52.359001",
+    "copyright_analysis": {
+      "can_include_in_corpus": true,
+      "reason": "Public domain - author died in 600 (>70 years ago)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641055"
+    },
+    "extraction": {
+      "status": "complete",
+      "extraction_timestamp": "2025-11-21T05:43:35.718777",
+      "extraction_duration_seconds": 1645.88,
+      "page_info": {
+        "total_pages": 445,
+        "text_based_pages": 0,
+        "ocr_pages": 445,
+        "failed_pages": 0
+      },
+      "methods_used": {
+        "pdfplumber": 0,
+        "document_ai": 445,
+        "failed": 0
+      },
+      "page_classification": {
+        "cover": 3,
+        "toc": 1,
+        "content": 441,
+        "index": 0,
+        "blank": 0,
+        "other": 0
+      },
+      "quality_metrics": {
+        "ocr_confidence": {
+          "avg_confidence": 0.982,
+          "min_confidence": 0.945,
+          "max_confidence": 0.99,
+          "low_confidence_pages": [],
+          "distribution": {
+            "high_0.9_to_1.0": 445,
+            "medium_0.7_to_0.9": 0,
+            "low_below_0.7": 0
+          }
+        }
+      },
+      "file_paths": {
+        "raw_text_dir": "data/extracted/raw_text/books-related-to-the-tipitaka/විමානවස්තුව",
+        "filtered_text_dir": "data/extracted/filtered_text/books-related-to-the-tipitaka/විමානවස්තුව",
+        "book_metadata_dir": "data/extracted/book_metadata/books-related-to-the-tipitaka/විමානවස්තුව"
+      }
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "books-related-to-the-tipitaka",
+    "Author": {
+      "name": "Ven. Wambatuwewe Dharmakeerthi Sri Srinivasa Thero",
+      "DOB": "1954-01-01",
+      "Date_of_passing": "2020-01-01"
+    },
+    "book_name_si": "ධම්මපද ප්‍රදීපය",
+    "book_name_en": "Dhammapada Pradeepaya",
+    "number_of_pages": null,
+    "published_date": "2015-03-04",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmWHBqYmNocGUxYk0/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/04/%e0%b6%b0%e0%b6%b8%e0%b7%8a%e0%b6%b8%e0%b6%b4%e0%b6%af-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%93%e0%b6%b4%e0%b6%ba-dhammapada-pradeepaya/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/books-related-to-the-tipitaka/ධම්මපද ප්‍රදීපය_Dhammapada Pradeepaya.pdf",
+    "file_size_mb": 72.6,
+    "sha256_checksum": "e2220b05c098a952d72c40b999b8fafc7392a89ba5a7a3ac6b611bd56404ea87",
+    "download_timestamp": "2025-11-19T10:59:03.705200",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 2020, protection ends 2090 (65 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641063"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "books-related-to-the-tipitaka",
+    "Author": {
+      "name": "Buddhaghosa Maha Thero",
+      "DOB": "0370-01-01",
+      "Date_of_passing": "0450-01-01"
+    },
+    "book_name_si": "විශුද්ධි මාර්ගය – බුද්ධඝෝෂ මාහිමියන් විසිනි",
+    "book_name_en": "Wishuddhi Margaya. – Buddhaghosha Maha Thero",
+    "number_of_pages": null,
+    "published_date": "2015-03-04",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmVk1UaHg5OG5fM0k/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/04/%e0%b7%80%e0%b7%92%e0%b7%81%e0%b7%94%e0%b6%af%e0%b7%8a%e0%b6%b0%e0%b7%92-%e0%b6%b8%e0%b7%8f%e0%b6%bb%e0%b7%8a%e0%b6%9c%e0%b6%ba-%e0%b6%b6%e0%b7%94%e0%b6%af%e0%b7%8a%e0%b6%b0%e0%b6%9d%e0%b7%9d/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/books-related-to-the-tipitaka/විශුද්ධි මාර්ගය – බුද්ධඝෝෂ මාහිමියන් විසිනි_Wishuddhi Margaya. – Buddhaghosha Maha Thero.pdf",
+    "file_size_mb": 189.25,
+    "sha256_checksum": "1986d1c24b53e907c657e90e353222ac5e52f81f458c2ce3c39205e73d214bc9",
+    "download_timestamp": "2025-11-19T10:59:12.564982",
+    "copyright_analysis": {
+      "can_include_in_corpus": true,
+      "reason": "Public domain - author died in 450 (>70 years ago)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641070"
+    },
+    "extraction": {
+      "status": "complete",
+      "extraction_timestamp": "2025-11-23T13:01:38.147409",
+      "extraction_duration_seconds": 1776.71,
+      "page_info": {
+        "total_pages": 1097,
+        "text_based_pages": 0,
+        "ocr_pages": 416,
+        "failed_pages": 0
+      },
+      "methods_used": {
+        "pdfplumber": 0,
+        "document_ai": 416,
+        "failed": 0
+      },
+      "page_classification": {
+        "cover": 0,
+        "toc": 0,
+        "content": 416,
+        "index": 0,
+        "blank": 0,
+        "other": 0
+      },
+      "quality_metrics": {
+        "ocr_confidence": {
+          "avg_confidence": 0.969,
+          "min_confidence": 0.936,
+          "max_confidence": 0.987,
+          "low_confidence_pages": [],
+          "distribution": {
+            "high_0.9_to_1.0": 416,
+            "medium_0.7_to_0.9": 0,
+            "low_below_0.7": 0
+          }
+        }
+      },
+      "file_paths": {
+        "raw_text_dir": "data/extracted/raw_text/books-related-to-the-tipitaka/විශුද්ධි මාර්ගය – බුද්ධඝෝෂ මාහිමියන් විසිනි",
+        "filtered_text_dir": "data/extracted/filtered_text/books-related-to-the-tipitaka/විශුද්ධි මාර්ගය – බුද්ධඝෝෂ මාහිමියන් විසිනි",
+        "book_metadata_dir": "data/extracted/book_metadata/books-related-to-the-tipitaka/විශුද්ධි මාර්ගය – බුද්ධඝෝෂ මාහිමියන් විසිනි"
+      }
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "old-books",
+    "Author": {
+      "name": "S. Mahinda Thero",
+      "DOB": "1901-01-01",
+      "Date_of_passing": "1951-03-16"
+    },
+    "book_name_si": "ජාතික තොටිල්ල –  ටිබෙට් ජාතික එස්. මහින්ද හිමි",
+    "book_name_en": "Jathila Thotilla – S. Mahinda Thero",
+    "number_of_pages": 21,
+    "published_date": "2015-11-26",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmZUJ4ekU4b051ZlU/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/11/26/%e0%b6%a2%e0%b7%8f%e0%b6%ad%e0%b7%92%e0%b6%9a-%e0%b6%ad%e0%b7%9c%e0%b6%a7%e0%b7%92%e0%b6%bd%e0%b7%8a%e0%b6%bd-%e0%b6%a7%e0%b7%92%e0%b6%b6%e0%b7%99%e0%b6%a7%e0%b7%8a-%e0%b6%a2%e0%b7%8f%e0%b6%ad/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/old-books/ජාතික තොටිල්ල –  ටිබෙට් ජාතික එස්. මහින්ද හිමි_Jathila Thotilla – S. Mahinda Thero.pdf",
+    "file_size_mb": 0.29,
+    "sha256_checksum": "62c35e1f211d9beb68b8eb35be8391b9f868bdcb3a868f3e3f9905bfdcb7e9bd",
+    "download_timestamp": "2025-11-19T10:59:19.419624",
+    "copyright_analysis": {
+      "can_include_in_corpus": true,
+      "reason": "Public domain - author died in 1951 (>70 years ago)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641078"
+    },
+    "extraction": {
+      "status": "complete",
+      "extraction_timestamp": "2025-11-23T13:01:44.388401",
+      "extraction_duration_seconds": 2.65,
+      "page_info": {
+        "total_pages": 21,
+        "text_based_pages": 21,
+        "ocr_pages": 0,
+        "failed_pages": 0
+      },
+      "methods_used": {
+        "pdfplumber": 21,
+        "document_ai": 0,
+        "failed": 0
+      },
+      "page_classification": {
+        "cover": 2,
+        "toc": 0,
+        "content": 19,
+        "index": 0,
+        "blank": 0,
+        "other": 0
+      },
+      "quality_metrics": {},
+      "file_paths": {
+        "raw_text_dir": "data/extracted/raw_text/old-books/ජාතික තොටිල්ල –  ටිබෙට් ජාතික එස්. මහින්ද හිමි",
+        "filtered_text_dir": "data/extracted/filtered_text/old-books/ජාතික තොටිල්ල –  ටිබෙට් ජාතික එස්. මහින්ද හිමි",
+        "book_metadata_dir": "data/extracted/book_metadata/old-books/ජාතික තොටිල්ල –  ටිබෙට් ජාතික එස්. මහින්ද හිමි"
+      }
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "old-books",
+    "Author": {
+      "name": "Ven. Migettuwatte Gunananda Thero",
+      "DOB": null,
+      "Date_of_passing": "1890-10-21"
+    },
+    "book_name_si": "පංච මහා වාදය",
+    "book_name_en": "Pancha maha wadaya",
+    "number_of_pages": null,
+    "published_date": "2015-11-26",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmWXpmbVI3Z2tkcG8/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/11/26/%e0%b6%b4%e0%b6%82%e0%b6%a0-%e0%b6%b8%e0%b7%84%e0%b7%8f-%e0%b7%80%e0%b7%8f%e0%b6%af%e0%b6%ba-pancha-maha-wadaya/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/old-books/පංච මහා වාදය_Pancha maha wadaya.pdf",
+    "file_size_mb": 79.79,
+    "sha256_checksum": "d153fecdff43870f54f7be16b419f053e3601a7093bc4e45ef3e8528abcf941f",
+    "download_timestamp": "2025-11-19T10:59:34.941761",
+    "copyright_analysis": {
+      "can_include_in_corpus": true,
+      "reason": "Public domain - author died in 1890 (>70 years ago)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641084"
+    },
+    "extraction": {
+      "status": "complete",
+      "extraction_timestamp": "2025-11-23T13:19:53.815100",
+      "extraction_duration_seconds": 1087.15,
+      "page_info": {
+        "total_pages": 316,
+        "text_based_pages": 0,
+        "ocr_pages": 316,
+        "failed_pages": 0
+      },
+      "methods_used": {
+        "pdfplumber": 0,
+        "document_ai": 316,
+        "failed": 0
+      },
+      "page_classification": {
+        "cover": 1,
+        "toc": 1,
+        "content": 305,
+        "index": 0,
+        "blank": 8,
+        "other": 1
+      },
+      "quality_metrics": {
+        "ocr_confidence": {
+          "avg_confidence": 0.978,
+          "min_confidence": 0.921,
+          "max_confidence": 0.992,
+          "low_confidence_pages": [],
+          "distribution": {
+            "high_0.9_to_1.0": 316,
+            "medium_0.7_to_0.9": 0,
+            "low_below_0.7": 0
+          }
+        }
+      },
+      "file_paths": {
+        "raw_text_dir": "data/extracted/raw_text/old-books/පංච මහා වාදය",
+        "filtered_text_dir": "data/extracted/filtered_text/old-books/පංච මහා වාදය",
+        "book_metadata_dir": "data/extracted/book_metadata/old-books/පංච මහා වාදය"
+      }
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "old-books",
+    "Author": {
+      "name": "Ven. Widurupola Piyatissa Mahanayaka Thero",
+      "DOB": "1888-01-01",
+      "Date_of_passing": "1954-01-01"
+    },
+    "book_name_si": "පාළි භාෂා ශබ්දකෝෂය –",
+    "book_name_en": "Pali Bhasha Shabdakoshaya",
+    "number_of_pages": null,
+    "published_date": "2015-11-15",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmNEE5dFNyODZJNVk/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/11/15/%e0%b6%b4%e0%b7%8f%e0%b7%85%e0%b7%92-%e0%b6%b7%e0%b7%8f%e0%b7%82%e0%b7%8f-%e0%b7%81%e0%b6%b6%e0%b7%8a%e0%b6%af%e0%b6%9a%e0%b7%9d%e0%b7%82%e0%b6%ba-pali-bhasha-shabdakoshaya/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/old-books/පාළි භාෂා ශබ්දකෝෂය –_Pali Bhasha Shabdakoshaya.pdf",
+    "file_size_mb": 171.66,
+    "sha256_checksum": "8e80c435f2aa7457be69db0a6b6dd143be73bc4fc72e1730f879027d031e8ed9",
+    "download_timestamp": "2025-11-19T10:59:45.572984",
+    "copyright_analysis": {
+      "can_include_in_corpus": true,
+      "reason": "Public domain - author died in 1954 (>70 years ago)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641091"
+    },
+    "extraction": {
+      "status": "complete",
+      "extraction_timestamp": "2025-11-23T13:53:11.333203",
+      "extraction_duration_seconds": 1995.97,
+      "page_info": {
+        "total_pages": 545,
+        "text_based_pages": 0,
+        "ocr_pages": 545,
+        "failed_pages": 0
+      },
+      "methods_used": {
+        "pdfplumber": 0,
+        "document_ai": 545,
+        "failed": 0
+      },
+      "page_classification": {
+        "cover": 2,
+        "toc": 0,
+        "content": 543,
+        "index": 0,
+        "blank": 0,
+        "other": 0
+      },
+      "quality_metrics": {
+        "ocr_confidence": {
+          "avg_confidence": 0.933,
+          "min_confidence": 0.849,
+          "max_confidence": 0.978,
+          "low_confidence_pages": [],
+          "distribution": {
+            "high_0.9_to_1.0": 543,
+            "medium_0.7_to_0.9": 2,
+            "low_below_0.7": 0
+          }
+        }
+      },
+      "file_paths": {
+        "raw_text_dir": "data/extracted/raw_text/old-books/පාළි භාෂා ශබ්දකෝෂය –",
+        "filtered_text_dir": "data/extracted/filtered_text/old-books/පාළි භාෂා ශබ්දකෝෂය –",
+        "book_metadata_dir": "data/extracted/book_metadata/old-books/පාළි භාෂා ශබ්දකෝෂය –"
+      }
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "old-books",
+    "Author": {
+      "name": " Ven. Balangoda anandamithree Thero",
+      "DOB": "1896-08-23",
+      "Date_of_passing": "1998-07-18"
+    },
+    "book_name_si": "සරළ පාලි ශික්ෂකය – බළංගොඩ ආනන්ද මෛත්‍රී මහනාහිමි",
+    "book_name_en": "sarala pali shikshakaya – Ven. Balangoda anandamithree Thero",
+    "number_of_pages": null,
+    "published_date": "2015-11-15",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmWDlseVB5Uko1OGs/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/11/15/%e0%b7%83%e0%b6%bb%e0%b7%85-%e0%b6%b4%e0%b7%8f%e0%b6%bd%e0%b7%92-%e0%b7%81%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%9a%e0%b6%ba-%e0%b6%b6%e0%b7%85%e0%b6%82%e0%b6%9c%e0%b7%9c%e0%b6%a9-%e0%b6%86/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/old-books/සරළ පාලි ශික්ෂකය – බළංගොඩ ආනන්ද මෛත්‍රී මහනාහිමි_sarala pali shikshakaya – Ven. Balangoda anandamithree Thero.pdf",
+    "file_size_mb": 26.93,
+    "sha256_checksum": "f000b3ddd09f5492cc53cef02c3119ecc60d524a15722f50ff3686cdf66f1d4e",
+    "download_timestamp": "2025-11-19T10:59:59.268341",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 1998, protection ends 2068 (43 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641098"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "old-books",
+    "Author": {
+      "name": "Unknown",
+      "DOB": null,
+      "Date_of_passing": "0400-01-01"
+    },
+    "book_name_si": "සිංහල දීපවංශය",
+    "book_name_en": "Sinhala Deepavansaya",
+    "number_of_pages": null,
+    "published_date": "2015-03-03",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmb3liOE5wNnJZM28/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/03/%e0%b7%83%e0%b7%92%e0%b6%82%e0%b7%84%e0%b6%bd-%e0%b6%af%e0%b7%93%e0%b6%b4%e0%b7%80%e0%b6%82%e0%b7%81%e0%b6%ba-sinhala-deepavansaya/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/old-books/සිංහල දීපවංශය_Sinhala Deepavansaya.pdf",
+    "file_size_mb": 32.9,
+    "sha256_checksum": "c73bf6a89b4293c63e6185316dbe8b006cd960d1f31686bf369307d740e7bc97",
+    "download_timestamp": "2025-11-19T11:00:16.668932",
+    "copyright_analysis": {
+      "can_include_in_corpus": true,
+      "reason": "Public domain - author died in 400 (>70 years ago)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641104"
+    },
+    "extraction": {
+      "status": "complete",
+      "extraction_timestamp": "2025-11-23T14:02:28.253225",
+      "extraction_duration_seconds": 555.52,
+      "page_info": {
+        "total_pages": 196,
+        "text_based_pages": 0,
+        "ocr_pages": 196,
+        "failed_pages": 0
+      },
+      "methods_used": {
+        "pdfplumber": 0,
+        "document_ai": 196,
+        "failed": 0
+      },
+      "page_classification": {
+        "cover": 2,
+        "toc": 6,
+        "content": 188,
+        "index": 0,
+        "blank": 0,
+        "other": 0
+      },
+      "quality_metrics": {
+        "ocr_confidence": {
+          "avg_confidence": 0.981,
+          "min_confidence": 0.847,
+          "max_confidence": 0.99,
+          "low_confidence_pages": [],
+          "distribution": {
+            "high_0.9_to_1.0": 195,
+            "medium_0.7_to_0.9": 1,
+            "low_below_0.7": 0
+          }
+        }
+      },
+      "file_paths": {
+        "raw_text_dir": "data/extracted/raw_text/old-books/සිංහල දීපවංශය",
+        "filtered_text_dir": "data/extracted/filtered_text/old-books/සිංහල දීපවංශය",
+        "book_metadata_dir": "data/extracted/book_metadata/old-books/සිංහල දීපවංශය"
+      }
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "old-books",
+    "Author": {
+      "name": "Vidyachakrawarthi",
+      "DOB": "1220-01-01",
+      "Date_of_passing": "1345-01-01"
+    },
+    "book_name_si": "බුත්සරණ",
+    "book_name_en": "Buthsarana",
+    "number_of_pages": null,
+    "published_date": "2015-03-03",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmTHVTblkyYnprQk0/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/03/%e0%b6%b6%e0%b7%94%e0%b6%ad%e0%b7%8a%e0%b7%83%e0%b6%bb%e0%b6%ab-buthsarana/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/old-books/බුත්සරණ_Buthsarana.pdf",
+    "file_size_mb": 70.72,
+    "sha256_checksum": "b58584db402b865aaf65483d0c546aa9775c16cd939fb2890605085055efccc3",
+    "download_timestamp": "2025-11-19T11:00:29.215182",
+    "copyright_analysis": {
+      "can_include_in_corpus": true,
+      "reason": "Public domain - author died in 1345 (>70 years ago)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641111"
+    },
+    "extraction": {
+      "status": "complete",
+      "extraction_timestamp": "2025-11-23T14:21:40.072723",
+      "extraction_duration_seconds": 1150.17,
+      "page_info": {
+        "total_pages": 344,
+        "text_based_pages": 0,
+        "ocr_pages": 344,
+        "failed_pages": 0
+      },
+      "methods_used": {
+        "pdfplumber": 0,
+        "document_ai": 344,
+        "failed": 0
+      },
+      "page_classification": {
+        "cover": 2,
+        "toc": 1,
+        "content": 333,
+        "index": 8,
+        "blank": 0,
+        "other": 0
+      },
+      "quality_metrics": {
+        "ocr_confidence": {
+          "avg_confidence": 0.975,
+          "min_confidence": 0.958,
+          "max_confidence": 0.986,
+          "low_confidence_pages": [],
+          "distribution": {
+            "high_0.9_to_1.0": 344,
+            "medium_0.7_to_0.9": 0,
+            "low_below_0.7": 0
+          }
+        }
+      },
+      "file_paths": {
+        "raw_text_dir": "data/extracted/raw_text/old-books/බුත්සරණ",
+        "filtered_text_dir": "data/extracted/filtered_text/old-books/බුත්සරණ",
+        "book_metadata_dir": "data/extracted/book_metadata/old-books/බුත්සරණ"
+      }
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "old-books",
+    "Author": {
+      "name": "Ven. Polwatte Buddhadatta Thero.",
+      "DOB": null,
+      "Date_of_passing": "1962-01-01"
+    },
+    "book_name_si": "සීහළවත්ථු",
+    "book_name_en": "sinhala wasthu",
+    "number_of_pages": null,
+    "published_date": "2015-03-03",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmS1dsM0dOME1rTWc/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/03/%e0%b7%83%e0%b7%93%e0%b7%84%e0%b7%85%e0%b7%80%e0%b6%ad%e0%b7%8a%e0%b6%ae%e0%b7%94-sinhala-wasthu/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/old-books/සීහළවත්ථු_sinhala wasthu.pdf",
+    "file_size_mb": 34.24,
+    "sha256_checksum": "4e1279221b9634553c31727d69da17fee75b04d5bc6a60467f50fc40ba9e1559",
+    "download_timestamp": "2025-11-19T11:00:38.555503",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 1962, protection ends 2032 (7 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641118"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "old-books",
+    "Author": {
+      "name": "Unknown",
+      "DOB": "1855-01-01",
+      "Date_of_passing": "1400-01-01"
+    },
+    "book_name_si": "දළදා පූජාවලිය",
+    "book_name_en": "The Book of Dalada Pujavaliya",
+    "number_of_pages": null,
+    "published_date": "2015-03-03",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmMnhKOVpua21MSlE/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/03/%e0%b6%af%e0%b7%85%e0%b6%af%e0%b7%8f-%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8f%e0%b7%80%e0%b6%bd%e0%b7%92%e0%b6%ba-the-book-of-dalada-pujavaliya/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/old-books/දළදා පූජාවලිය_The Book of Dalada Pujavaliya.pdf",
+    "file_size_mb": 181.1,
+    "sha256_checksum": "f3854cc35fb386469a68b59e9300b29acf5be423de3f807d10e7d2fa15a53bc4",
+    "download_timestamp": "2025-11-19T11:00:46.380730",
+    "copyright_analysis": {
+      "can_include_in_corpus": true,
+      "reason": "Public domain - author died in 1400 (>70 years ago)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641125"
+    },
+    "extraction": {
+      "status": "complete",
+      "extraction_timestamp": "2025-11-23T15:24:10.522781",
+      "extraction_duration_seconds": 3748.33,
+      "page_info": {
+        "total_pages": 844,
+        "text_based_pages": 0,
+        "ocr_pages": 844,
+        "failed_pages": 0
+      },
+      "methods_used": {
+        "pdfplumber": 0,
+        "document_ai": 844,
+        "failed": 0
+      },
+      "page_classification": {
+        "cover": 1,
+        "toc": 2,
+        "content": 829,
+        "index": 0,
+        "blank": 0,
+        "other": 12
+      },
+      "quality_metrics": {
+        "ocr_confidence": {
+          "avg_confidence": 0.973,
+          "min_confidence": 0.927,
+          "max_confidence": 0.989,
+          "low_confidence_pages": [],
+          "distribution": {
+            "high_0.9_to_1.0": 844,
+            "medium_0.7_to_0.9": 0,
+            "low_below_0.7": 0
+          }
+        }
+      },
+      "file_paths": {
+        "raw_text_dir": "data/extracted/raw_text/old-books/දළදා පූජාවලිය",
+        "filtered_text_dir": "data/extracted/filtered_text/old-books/දළදා පූජාවලිය",
+        "book_metadata_dir": "data/extracted/book_metadata/old-books/දළදා පූජාවලිය"
+      }
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "old-books",
+    "Author": {
+      "name": "Ven. Hikkaduwe Sri Sumangala Ther",
+      "DOB": null,
+      "Date_of_passing": "1911-01-01"
+    },
+    "book_name_si": "ඉතිහාසයේ අසිරිමත් ලේඛනය – මහාවංශය",
+    "book_name_en": "The Mahavamsa – Great Chronicle  History of Sri Lanka",
+    "number_of_pages": null,
+    "published_date": "2015-03-03",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmWXVpVkc1aktadG8/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/03/%e0%b6%89%e0%b6%ad%e0%b7%92%e0%b7%84%e0%b7%8f%e0%b7%83%e0%b6%ba%e0%b7%9a-%e0%b6%85%e0%b7%83%e0%b7%92%e0%b6%bb%e0%b7%92%e0%b6%b8%e0%b6%ad%e0%b7%8a-%e0%b6%bd%e0%b7%9a%e0%b6%9b%e0%b6%b1%e0%b6%ba/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/old-books/ඉතිහාසයේ අසිරිමත් ලේඛනය – මහාවංශය_The Mahavamsa – Great Chronicle  History of Sri Lanka.pdf",
+    "file_size_mb": 157.72,
+    "sha256_checksum": "98efd98a77947f19e7677beb51acef3b56036100a7bb87bbf806f56572b1cae9",
+    "download_timestamp": "2025-11-19T11:00:53.454355",
+    "copyright_analysis": {
+      "can_include_in_corpus": true,
+      "reason": "Public domain - author died in 1911 (>70 years ago)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641132"
+    },
+    "extraction": {
+      "status": "complete",
+      "extraction_timestamp": "2025-11-23T16:14:16.132103",
+      "extraction_duration_seconds": 3003.68,
+      "page_info": {
+        "total_pages": 765,
+        "text_based_pages": 0,
+        "ocr_pages": 765,
+        "failed_pages": 0
+      },
+      "methods_used": {
+        "pdfplumber": 0,
+        "document_ai": 765,
+        "failed": 0
+      },
+      "page_classification": {
+        "cover": 0,
+        "toc": 5,
+        "content": 759,
+        "index": 0,
+        "blank": 0,
+        "other": 1
+      },
+      "quality_metrics": {
+        "ocr_confidence": {
+          "avg_confidence": 0.98,
+          "min_confidence": 0.933,
+          "max_confidence": 0.992,
+          "low_confidence_pages": [],
+          "distribution": {
+            "high_0.9_to_1.0": 765,
+            "medium_0.7_to_0.9": 0,
+            "low_below_0.7": 0
+          }
+        }
+      },
+      "file_paths": {
+        "raw_text_dir": "data/extracted/raw_text/old-books/ඉතිහාසයේ අසිරිමත් ලේඛනය – මහාවංශය",
+        "filtered_text_dir": "data/extracted/filtered_text/old-books/ඉතිහාසයේ අසිරිමත් ලේඛනය – මහාවංශය",
+        "book_metadata_dir": "data/extracted/book_metadata/old-books/ඉතිහාසයේ අසිරිමත් ලේඛනය – මහාවංශය"
+      }
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "old-books",
+    "Author": {
+      "name": "D.B. Jayatilaka",
+      "DOB": null,
+      "Date_of_passing": "1944-01-01"
+    },
+    "book_name_si": "සද්ධර්ම රත්නාවලිය",
+    "book_name_en": "saddharma ratnavali",
+    "number_of_pages": null,
+    "published_date": "2015-03-03",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmT0QwQ1d1eV84UzA/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/03/%e0%b7%83%e0%b6%af%e0%b7%8a%e0%b6%b0%e0%b6%bb%e0%b7%8a%e0%b6%b8-%e0%b6%bb%e0%b6%ad%e0%b7%8a%e0%b6%b1%e0%b7%8f%e0%b7%80%e0%b6%bd%e0%b7%92%e0%b6%ba-saddharma-ratnavali/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/old-books/සද්ධර්ම රත්නාවලිය_saddharma ratnavali.pdf",
+    "file_size_mb": 270.21,
+    "sha256_checksum": "98885ce9b0abdb52681a372d1dd9d4324848bb686e3b88b9a96ee417a70e2994",
+    "download_timestamp": "2025-11-19T11:01:04.156225",
+    "copyright_analysis": {
+      "can_include_in_corpus": true,
+      "reason": "Public domain - author died in 1944 (>70 years ago)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641138"
+    },
+    "extraction": {
+      "status": "complete",
+      "extraction_timestamp": "2025-11-23T18:06:26.877479",
+      "extraction_duration_seconds": 2186.98,
+      "page_info": {
+        "total_pages": 1265,
+        "text_based_pages": 0,
+        "ocr_pages": 411,
+        "failed_pages": 0
+      },
+      "methods_used": {
+        "pdfplumber": 0,
+        "document_ai": 411,
+        "failed": 0
+      },
+      "page_classification": {
+        "cover": 0,
+        "toc": 0,
+        "content": 411,
+        "index": 0,
+        "blank": 0,
+        "other": 0
+      },
+      "quality_metrics": {
+        "ocr_confidence": {
+          "avg_confidence": 0.974,
+          "min_confidence": 0.94,
+          "max_confidence": 0.984,
+          "low_confidence_pages": [],
+          "distribution": {
+            "high_0.9_to_1.0": 411,
+            "medium_0.7_to_0.9": 0,
+            "low_below_0.7": 0
+          }
+        }
+      },
+      "file_paths": {
+        "raw_text_dir": "data/extracted/raw_text/old-books/සද්ධර්ම රත්නාවලිය",
+        "filtered_text_dir": "data/extracted/filtered_text/old-books/සද්ධර්ම රත්නාවලිය",
+        "book_metadata_dir": "data/extracted/book_metadata/old-books/සද්ධර්ම රත්නාවලිය"
+      }
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-rerukane-chandawimala-thero-books",
+    "Author": {
+      "name": "Ven. Rerukane Chandawimala Maha Thero",
+      "DOB": "1897-07-19",
+      "Date_of_passing": "1997-07-04"
+    },
+    "book_name_si": "විනය කර්ම පොත – පූජ්‍ය රේරුකානේ චන්දවිමල නාහිමිපාණන් වහන්සේ",
+    "book_name_en": "Vinaya Karma Potha  –   Most Ven. Rerukane Chandawimala Maha Thero",
+    "number_of_pages": null,
+    "published_date": "2015-02-16",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmTi1rdTV3RU10MkE/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/16/%e0%b7%80%e0%b7%92%e0%b6%b1%e0%b6%ba-%e0%b6%9a%e0%b6%bb%e0%b7%8a%e0%b6%b8-%e0%b6%b4%e0%b7%9c%e0%b6%ad-%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b6%bb%e0%b7%9a%e0%b6%bb%e0%b7%94/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-rerukane-chandawimala-thero-books/විනය කර්ම පොත – පූජ්‍ය රේරුකානේ චන්දවිමල නාහිමිපාණන් වහන්සේ_Vinaya Karma Potha  –   Most Ven. Rerukane Chandawimala Maha Thero.pdf",
+    "file_size_mb": 41.55,
+    "sha256_checksum": "ae0738c49bd018654eac0ade095f723fa907e82e7fa954aa5e97a53ebe33f48c",
+    "download_timestamp": "2025-11-19T11:01:18.428114",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 1997, protection ends 2067 (42 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641146"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-rerukane-chandawimala-thero-books",
+    "Author": {
+      "name": "Ven. Rerukane Chandawimala Maha Thero",
+      "DOB": "1897-07-19",
+      "Date_of_passing": "1997-07-04"
+    },
+    "book_name_si": "උපසම්පදා ශීලය – පූජ්‍ය රේරුකානේ චන්දවිමල නාහිමිපාණන් වහන්සේ",
+    "book_name_en": "Upasampada Sheelaya –   Most Ven. Rerukane Chandawimala Maha Thero",
+    "number_of_pages": null,
+    "published_date": "2015-02-16",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmREdpOVcwT0h0bVk/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/16/%e0%b6%8b%e0%b6%b4%e0%b7%83%e0%b6%b8%e0%b7%8a%e0%b6%b4%e0%b6%af%e0%b7%8f-%e0%b7%81%e0%b7%93%e0%b6%bd%e0%b6%ba-%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b6%bb%e0%b7%9a%e0%b6%bb/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-rerukane-chandawimala-thero-books/උපසම්පදා ශීලය – පූජ්‍ය රේරුකානේ චන්දවිමල නාහිමිපාණන් වහන්සේ_Upasampada Sheelaya –   Most Ven. Rerukane Chandawimala Maha Thero.pdf",
+    "file_size_mb": 61.64,
+    "sha256_checksum": "9096cf54cbf8b374749a9cd750e6f776fbff9808453a8e9525a36db3240a413a",
+    "download_timestamp": "2025-11-19T11:01:45.178651",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 1997, protection ends 2067 (42 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641153"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-rerukane-chandawimala-thero-books",
+    "Author": {
+      "name": "Ven. Rerukane Chandawimala Maha Thero",
+      "DOB": "1897-07-19",
+      "Date_of_passing": "1997-07-04"
+    },
+    "book_name_si": "ශාසනාවතරණය – පූජ්‍ය රේරුකානේ චන්දවිමල නාහිමිපාණන් වහන්සේ",
+    "book_name_en": "Shasanawatharanaya-  Most Ven. Rerukane Chandawimala Maha Thero",
+    "number_of_pages": null,
+    "published_date": "2015-02-16",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmSkVyVldEaENLRW8/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/16/%e0%b7%81%e0%b7%8f%e0%b7%83%e0%b6%b1%e0%b7%8f%e0%b7%80%e0%b6%ad%e0%b6%bb%e0%b6%ab%e0%b6%ba-%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b6%bb%e0%b7%9a%e0%b6%bb%e0%b7%94%e0%b6%9a/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-rerukane-chandawimala-thero-books/ශාසනාවතරණය – පූජ්‍ය රේරුකානේ චන්දවිමල නාහිමිපාණන් වහන්සේ_Shasanawatharanaya-  Most Ven. Rerukane Chandawimala Maha Thero.pdf",
+    "file_size_mb": 56.56,
+    "sha256_checksum": "76237d85009b32b03b93ceba453427b08d5c73a60a7b1131b68c71daab770789",
+    "download_timestamp": "2025-11-19T11:02:09.819393",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 1997, protection ends 2067 (42 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641160"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-rerukane-chandawimala-thero-books",
+    "Author": {
+      "name": "Ven. Rerukane Chandawimala Maha Thero",
+      "DOB": "1897-07-19",
+      "Date_of_passing": "1997-07-04"
+    },
+    "book_name_si": "මංගල ධර්ම විස්තරය – රේරුකාණේ චන්දවිමල නාහිමි",
+    "book_name_en": "Mangala dharma vistharaya – Most Venerable Rerukane Chandawimala Maha Nayaka Thero",
+    "number_of_pages": null,
+    "published_date": "2015-02-12",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmZ2Zvb1JsQ1c2bDg/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/12/%e0%b6%b8%e0%b6%82%e0%b6%9c%e0%b6%bd-%e0%b6%b0%e0%b6%bb%e0%b7%8a%e0%b6%b8-%e0%b7%80%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b6%bb%e0%b6%ba-%e0%b6%bb%e0%b7%9a%e0%b6%bb%e0%b7%94%e0%b6%9a/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-rerukane-chandawimala-thero-books/මංගල ධර්ම විස්තරය – රේරුකාණේ චන්දවිමල නාහිමි_Mangala dharma vistharaya – Most Venerable Rerukane Chandawimala Maha Nayaka Thero.pdf",
+    "file_size_mb": 59.87,
+    "sha256_checksum": "76650841ee3c3aeae413a03b1e0ff0e53c3a9b8e9c53a50eb59ac5064f14c6f3",
+    "download_timestamp": "2025-11-19T11:03:25.471260",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 1997, protection ends 2067 (42 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641167"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-balangoda-ananda-maithriya-thero-books",
+    "Author": {
+      "name": "Ven Balangoda Anandamaitreya Mahanayake Thero",
+      "DOB": "1896-08-23",
+      "Date_of_passing": "1998-07-18"
+    },
+    "book_name_si": "ඉන්ට්‍රොඩක්ටින් බුඩිසම් – බළංගොඩ ආනන්ද මෛත්‍රීය මහ නාහිමි –",
+    "book_name_en": "INTRODUCING BUDDHISM – Ven Balangoda Anandamaitreya Mahanayake Thero",
+    "number_of_pages": 8,
+    "published_date": "2015-11-14",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmRldBLXRXVldZM00/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/11/14/%e0%b6%89%e0%b6%b1%e0%b7%8a%e0%b6%a7%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%9c%e0%b6%a9%e0%b6%9a%e0%b7%8a%e0%b6%a7%e0%b7%92%e0%b6%b1%e0%b7%8a-%e0%b6%b6%e0%b7%94%e0%b6%a9%e0%b7%92%e0%b7%83%e0%b6%b8%e0%b7%8a/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-balangoda-ananda-maithriya-thero-books/ඉන්ට්‍රොඩක්ටින් බුඩිසම් – බළංගොඩ ආනන්ද මෛත්‍රීය මහ නාහිමි –_INTRODUCING BUDDHISM – Ven Balangoda Anandamaitreya Mahanayake Thero.pdf",
+    "file_size_mb": 0.62,
+    "sha256_checksum": "04aaab5d7823706a8adcfc64fcc754fbd3a507756d6d045847465c6837939307",
+    "download_timestamp": "2025-11-19T11:03:32.227963",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 1998, protection ends 2068 (43 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641175"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-madihe-pannaseeha-thero-books",
+    "Author": {
+      "name": "Most Ven.Madihe Pannasiha Mahanayaka Thera",
+      "DOB": "1913-06-21",
+      "Date_of_passing": "2003-09-09"
+    },
+    "book_name_si": "බෞද්ධයා හා බෞද්ධ චාරිත්‍ර- පූජ්‍ය මඩිහේ පඤ්ඤාසීහ මහ නාහිමි",
+    "book_name_en": "Bauddhaya ha Bauddha charithra –  Most Ven.Madihe Pannasiha Mahanayaka Thera",
+    "number_of_pages": 49,
+    "published_date": "2015-02-18",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmaTJHTXk1N0k0ODQ/view?usp=sharing%3C/p%3E%3Cp%3E",
+    "post_url": "https://download.ifbcnet.org/2015/02/18/%e0%b6%b6%e0%b7%9e%e0%b6%af%e0%b7%8a%e0%b6%b0%e0%b6%ba%e0%b7%8f-%e0%b7%84%e0%b7%8f-%e0%b6%b6%e0%b7%9e%e0%b6%af%e0%b7%8a%e0%b6%b0-%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b7%92%e0%b6%ad%e0%b7%8a%e2%80%8d/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-madihe-pannaseeha-thero-books/බෞද්ධයා හා බෞද්ධ චාරිත්‍ර- පූජ්‍ය මඩිහේ පඤ්ඤාසීහ මහ නාහිමි_Bauddhaya ha Bauddha charithra –  Most Ven.Madihe Pannasiha Mahanayaka Thera.pdf",
+    "file_size_mb": 2.0,
+    "sha256_checksum": "f8a9e63b0e3b14614abeeb60dffdf70cc6f2f607b16ecf5b51e222d23296c27d",
+    "download_timestamp": "2025-11-19T11:04:08.274994",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 2003, protection ends 2073 (48 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641183"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-nauyane-ariyadhamma-maha-thero",
+    "Author": {
+      "name": "Ven Nauyane Ariyadhamma Maha Thero",
+      "DOB": "1939-04-21",
+      "Date_of_passing": "2016-09-07"
+    },
+    "book_name_si": "ආනාපානාසති දේශනාව – පූජ්‍ය නාඋයනේ අරියධම්ම හිමි",
+    "book_name_en": "The Anananasathi Deshanawa – Ven Nauyane Ariyadhamma Maha Thero",
+    "number_of_pages": 31,
+    "published_date": "2015-11-26",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmX1ZmSlRGcjNSMDA/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/11/26/%e0%b6%86%e0%b6%b1%e0%b7%8f%e0%b6%b4%e0%b7%8f%e0%b6%b1%e0%b7%8f%e0%b7%83%e0%b6%ad%e0%b7%92-%e0%b6%af%e0%b7%9a%e0%b7%81%e0%b6%b1%e0%b7%8f%e0%b7%80-%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8a/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-nauyane-ariyadhamma-maha-thero/ආනාපානාසති දේශනාව – පූජ්‍ය නාඋයනේ අරියධම්ම හිමි_The Anananasathi Deshanawa – Ven Nauyane Ariyadhamma Maha Thero.pdf",
+    "file_size_mb": 21.08,
+    "sha256_checksum": "6d03057d6753a63f10096dedf8fb7abfc19ab398a316dc7c90c76d6bbf036970",
+    "download_timestamp": "2025-11-19T11:04:43.868585",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 2016, protection ends 2086 (61 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641190"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-nauyane-ariyadhamma-maha-thero",
+    "Author": {
+      "name": "Ven Nauyane Ariyadhamma Maha Thero",
+      "DOB": "1939-04-21",
+      "Date_of_passing": "2016-09-07"
+    },
+    "book_name_si": "බුද්ධ වන්දනා ක්‍රමය – පූජ්‍ය නාඋයනේ අරියධම්ම හිමි",
+    "book_name_en": "Buddha wandana Kramaya – Ven Nauyane Ariyadhamma Maha Thero",
+    "number_of_pages": 83,
+    "published_date": "2015-02-27",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmVERvcG9sTUpydVE/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/27/%e0%b6%b6%e0%b7%94%e0%b6%af%e0%b7%8a%e0%b6%b0-%e0%b7%80%e0%b6%b1%e0%b7%8a%e0%b6%af%e0%b6%b1%e0%b7%8f-%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%b8%e0%b6%ba-%e0%b6%b4%e0%b7%96%e0%b6%a2/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-nauyane-ariyadhamma-maha-thero/බුද්ධ වන්දනා ක්‍රමය – පූජ්‍ය නාඋයනේ අරියධම්ම හිමි_Buddha wandana Kramaya – Ven Nauyane Ariyadhamma Maha Thero.pdf",
+    "file_size_mb": 3.53,
+    "sha256_checksum": "6fc879fa5c4c00f43fe4349ce6cbf54f59cd7a31b9cdda1dc1b244c1b1f8c899",
+    "download_timestamp": "2025-11-19T11:04:48.616192",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 2016, protection ends 2086 (61 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641197"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-nauyane-ariyadhamma-maha-thero",
+    "Author": {
+      "name": "Ven Nauyane Ariyadhamma Maha Thero",
+      "DOB": "1939-04-21",
+      "Date_of_passing": "2016-09-07"
+    },
+    "book_name_si": "බෝධි වන්දනා – පූජ්‍ය නාඋයනේ අරියධම්ම හිමි",
+    "book_name_en": "Bodhi wandana – Ven Nauyane Ariyadhamma Maha Thero",
+    "number_of_pages": 34,
+    "published_date": "2015-02-27",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmOVBvbGRxaVJyaW8/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/27/%e0%b6%b6%e0%b7%9d%e0%b6%b0%e0%b7%92-%e0%b7%80%e0%b6%b1%e0%b7%8a%e0%b6%af%e0%b6%b1%e0%b7%8f-%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b6%b1%e0%b7%8f%e0%b6%8b%e0%b6%ba/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-nauyane-ariyadhamma-maha-thero/බෝධි වන්දනා – පූජ්‍ය නාඋයනේ අරියධම්ම හිමි_Bodhi wandana – Ven Nauyane Ariyadhamma Maha Thero.pdf",
+    "file_size_mb": 1.75,
+    "sha256_checksum": "dd100f353378936b56a963e2194c431f048c72213e393e99c9c87906ca8c132d",
+    "download_timestamp": "2025-11-19T11:04:52.916451",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 2016, protection ends 2086 (61 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641205"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-nauyane-ariyadhamma-maha-thero",
+    "Author": {
+      "name": "Ven Nauyane Ariyadhamma Maha Thero",
+      "DOB": "1939-04-21",
+      "Date_of_passing": "2016-09-07"
+    },
+    "book_name_si": "භාවනා – පූජ්‍ය නාඋයනේ අරියධම්ම හිමි",
+    "book_name_en": "Bhawana – Ven Nauyane Ariyadhamma Maha Thero",
+    "number_of_pages": 49,
+    "published_date": "2015-02-26",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmaFE0VjBaOVhEb2c/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/26/%e0%b6%b7%e0%b7%8f%e0%b7%80%e0%b6%b1%e0%b7%8f-%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b6%b1%e0%b7%8f%e0%b6%8b%e0%b6%ba%e0%b6%b1%e0%b7%9a-%e0%b6%85%e0%b6%bb%e0%b7%92%e0%b6%ba/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-nauyane-ariyadhamma-maha-thero/භාවනා – පූජ්‍ය නාඋයනේ අරියධම්ම හිමි_Bhawana – Ven Nauyane Ariyadhamma Maha Thero.pdf",
+    "file_size_mb": 11.71,
+    "sha256_checksum": "2773b9f84f1e268b9f6fa4c3ef0d1eee85be9f7577b1eeebdd3adc71ce886019",
+    "download_timestamp": "2025-11-19T11:05:05.741974",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 2016, protection ends 2086 (61 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641212"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-matara-sri-gnanarama-thero-books",
+    "Author": {
+      "name": "Most Ven. Mathara sri gnarama thero",
+      "DOB": "1901-12-11",
+      "Date_of_passing": "1992-04-30"
+    },
+    "book_name_si": "සත් අනුපස්සනා – මාතර ශ්‍රී ඥානාරාම ස්වාමීන් වහන්සේ",
+    "book_name_en": "Sath anupassana – Most Ven. Mathara sri gnarama thero",
+    "number_of_pages": 159,
+    "published_date": "2015-11-23",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmTjdXbjBNVUxRRUk/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/11/23/%e0%b7%83%e0%b6%ad%e0%b7%8a-%e0%b6%85%e0%b6%b1%e0%b7%94%e0%b6%b4%e0%b7%83%e0%b7%8a%e0%b7%83%e0%b6%b1%e0%b7%8f-%e0%b6%b8%e0%b7%8f%e0%b6%ad%e0%b6%bb-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-matara-sri-gnanarama-thero-books/සත් අනුපස්සනා – මාතර ශ්‍රී ඥානාරාම ස්වාමීන් වහන්සේ_Sath anupassana – Most Ven. Mathara sri gnarama thero.pdf",
+    "file_size_mb": 21.54,
+    "sha256_checksum": "07b0cd3cf06521e7a2671731af9ac3e6297f0e5c5e0245a92eb6053e537a8f89",
+    "download_timestamp": "2025-11-19T11:05:30.170726",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 1992, protection ends 2062 (37 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641220"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-matara-sri-gnanarama-thero-books",
+    "Author": {
+      "name": "Most Ven. Mathara sri gnarama thero",
+      "DOB": "1901-12-11",
+      "Date_of_passing": "1992-04-30"
+    },
+    "book_name_si": "විදර්ශනා පරපුර – මාතර ශ්‍රී ඥානාරාම ස්වාමීන් වහන්සේ",
+    "book_name_en": "Vidarshana parapura – Most Ven. Mathara sri gnarama thero",
+    "number_of_pages": 74,
+    "published_date": "2015-11-22",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmM2MwVHdsLXhJdUE/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/11/22/%e0%b7%80%e0%b7%92%e0%b6%af%e0%b6%bb%e0%b7%8a%e0%b7%81%e0%b6%b1%e0%b7%8f-%e0%b6%b4%e0%b6%bb%e0%b6%b4%e0%b7%94%e0%b6%bb-%e0%b6%b8%e0%b7%8f%e0%b6%ad%e0%b6%bb-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-matara-sri-gnanarama-thero-books/විදර්ශනා පරපුර – මාතර ශ්‍රී ඥානාරාම ස්වාමීන් වහන්සේ_Vidarshana parapura – Most Ven. Mathara sri gnarama thero.pdf",
+    "file_size_mb": 1.47,
+    "sha256_checksum": "1f5b6a77405609e93ebaec180fb29872f8b4362b47477b7da12f3343e1af1093",
+    "download_timestamp": "2025-11-19T11:05:39.863632",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 1992, protection ends 2062 (37 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641228"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-matara-sri-gnanarama-thero-books",
+    "Author": {
+      "name": "Most Ven. Mathara sri gnarama thero",
+      "DOB": "1901-12-11",
+      "Date_of_passing": "1992-04-30"
+    },
+    "book_name_si": "භාවනා මාර්ගය –  අතිපූජ්‍ය මාතර ශ්‍රී ඥානාරාම හිමිපානන් වහන්සේ",
+    "book_name_en": "Bhawana Margaya – Most Ven. Mathara sri gnarama thero",
+    "number_of_pages": 26,
+    "published_date": "2015-11-22",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmWTc3ekd2SVNPRkk/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/11/22/%e0%b6%b7%e0%b7%8f%e0%b7%80%e0%b6%b1%e0%b7%8f-%e0%b6%b8%e0%b7%8f%e0%b6%bb%e0%b7%8a%e0%b6%9c%e0%b6%ba-%e0%b6%85%e0%b6%ad%e0%b7%92%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b6%b8/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-matara-sri-gnanarama-thero-books/භාවනා මාර්ගය –  අතිපූජ්‍ය මාතර ශ්‍රී ඥානාරාම හිමිපානන් වහන්සේ_Bhawana Margaya – Most Ven. Mathara sri gnarama thero.pdf",
+    "file_size_mb": 18.81,
+    "sha256_checksum": "fa7a3e8c4acc630f81d0852fc746134ac8ed9dd7ddd25391fdedc25a77f9206b",
+    "download_timestamp": "2025-11-19T11:05:48.053002",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 1992, protection ends 2062 (37 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641237"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-matara-sri-gnanarama-thero-books",
+    "Author": {
+      "name": "Most Ven. Mathara sri gnarama thero",
+      "DOB": "1901-12-11",
+      "Date_of_passing": "1992-04-30"
+    },
+    "book_name_si": "සුගතෝවාදය –  අතිපූජ්‍ය මාතර ශ්‍රී ඥානාරාම හිමිපානන් වහන්සේ",
+    "book_name_en": "Sugathowadaya – Most Ven. Mathara sri gnarama thero",
+    "number_of_pages": 26,
+    "published_date": "2015-11-22",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmSWFtZkZ2a2tlVHc/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/11/22/758/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-matara-sri-gnanarama-thero-books/සුගතෝවාදය –  අතිපූජ්‍ය මාතර ශ්‍රී ඥානාරාම හිමිපානන් වහන්සේ_Sugathowadaya – Most Ven. Mathara sri gnarama thero.pdf",
+    "file_size_mb": 1.87,
+    "sha256_checksum": "b45d5b2b932697cbef5720d77c171ba47ae45d1b9416d2cbc647c946279ae76a",
+    "download_timestamp": "2025-11-19T11:05:54.244568",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 1992, protection ends 2062 (37 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641244"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-rrajagiriye-ariyagnaana-thero-books",
+    "Author": {
+      "name": "ven rrajagiriye ariyagnaana thero",
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – අත්හැරීම 01",
+    "book_name_en": "Maha Rahathun Wadi Maga Osse Book – Athhereema 01",
+    "number_of_pages": 34,
+    "published_date": "2015-02-17",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmLVljRm5CdEdZT28/view?usp=sharing%3C/p%3E%3Cp%3E",
+    "post_url": "https://download.ifbcnet.org/2015/02/17/%e0%b6%b8%e0%b7%84%e0%b6%bb%e0%b7%84%e0%b6%ad%e0%b7%94%e0%b6%b1%e0%b7%8a-%e0%b7%80%e0%b7%90%e0%b6%a9%e0%b7%92-%e0%b6%b8%e0%b6%9f-%e0%b6%94%e0%b7%83%e0%b7%8a%e0%b7%83%e0%b7%9a-%e0%b6%9c%e0%b7%8a/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-rrajagiriye-ariyagnaana-thero-books/මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – අත්හැරීම 01_Maha Rahathun Wadi Maga Osse Book – Athhereema 01.pdf",
+    "file_size_mb": 0.63,
+    "sha256_checksum": "4407da170d35f5a17dbdef90a51c6c5b85dff054992c2ddde25341a1d996ef09",
+    "download_timestamp": "2025-11-19T11:06:08.906287",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author information missing - cannot verify public domain status (conservative exclusion)",
+      "confidence": "low",
+      "analysis_date": "2025-11-23T12:31:44.641251"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-rrajagiriye-ariyagnaana-thero-books",
+    "Author": {
+      "name": "ven rrajagiriye ariyagnaana thero",
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – අත්හැරීම 02",
+    "book_name_en": "Maha Rahathun Wadi Maga Osse Book – Athhereema 02",
+    "number_of_pages": 91,
+    "published_date": "2015-02-17",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmYS1xdzU2RnY0RG8/view",
+    "post_url": "https://download.ifbcnet.org/2015/02/17/%e0%b6%b8%e0%b7%84%e0%b6%bb%e0%b7%84%e0%b6%ad%e0%b7%94%e0%b6%b1%e0%b7%8a-%e0%b7%80%e0%b7%90%e0%b6%a9%e0%b7%92-%e0%b6%b8%e0%b6%9f-%e0%b6%94%e0%b7%83%e0%b7%8a%e0%b7%83%e0%b7%9a-%e0%b6%9c%e0%b7%8a-2/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-rrajagiriye-ariyagnaana-thero-books/මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – අත්හැරීම 02_Maha Rahathun Wadi Maga Osse Book – Athhereema 02.pdf",
+    "file_size_mb": 1.21,
+    "sha256_checksum": "b479c2765848b553209c6960a989dff7674a68e98983ebc47b23a5d02201f39c",
+    "download_timestamp": "2025-11-19T11:06:15.070119",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author information missing - cannot verify public domain status (conservative exclusion)",
+      "confidence": "low",
+      "analysis_date": "2025-11-23T12:31:44.641257"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-rrajagiriye-ariyagnaana-thero-books",
+    "Author": {
+      "name": "ven rrajagiriye ariyagnaana thero",
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – අත්හැරීම 03",
+    "book_name_en": "Maha Rahathun Wadi Maga Osse Book – Athhereema 03",
+    "number_of_pages": 180,
+    "published_date": "2015-02-17",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmdUc0ZjRJd29LOFk/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/17/%e0%b6%b8%e0%b7%84%e0%b6%bb%e0%b7%84%e0%b6%ad%e0%b7%94%e0%b6%b1%e0%b7%8a-%e0%b7%80%e0%b7%90%e0%b6%a9%e0%b7%92-%e0%b6%b8%e0%b6%9f-%e0%b6%94%e0%b7%83%e0%b7%8a%e0%b7%83%e0%b7%9a-%e0%b6%9c%e0%b7%8a-5/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-rrajagiriye-ariyagnaana-thero-books/මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – අත්හැරීම 03_Maha Rahathun Wadi Maga Osse Book – Athhereema 03.pdf",
+    "file_size_mb": 1.6,
+    "sha256_checksum": "85cfe5c496664db2de2544ae6f60657c6719b2f70d68403dc1494d9c1e1a3260",
+    "download_timestamp": "2025-11-19T11:06:26.618399",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author information missing - cannot verify public domain status (conservative exclusion)",
+      "confidence": "low",
+      "analysis_date": "2025-11-23T12:31:44.641263"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-rrajagiriye-ariyagnaana-thero-books",
+    "Author": {
+      "name": "ven rrajagiriye ariyagnaana thero",
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – අත්හැරීම 04",
+    "book_name_en": "Maha Rahathun Wadi Maga Osse Book – Athhereema 04",
+    "number_of_pages": 71,
+    "published_date": "2015-02-17",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmb0pzNUlhc0gyRHc/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/17/%e0%b6%b8%e0%b7%84%e0%b6%bb%e0%b7%84%e0%b6%ad%e0%b7%94%e0%b6%b1%e0%b7%8a-%e0%b7%80%e0%b7%90%e0%b6%a9%e0%b7%92-%e0%b6%b8%e0%b6%9f-%e0%b6%94%e0%b7%83%e0%b7%8a%e0%b7%83%e0%b7%9a-%e0%b6%9c%e0%b7%8a-4/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-rrajagiriye-ariyagnaana-thero-books/මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – අත්හැරීම 04_Maha Rahathun Wadi Maga Osse Book – Athhereema 04.pdf",
+    "file_size_mb": 8.2,
+    "sha256_checksum": "30375a7eaf7329428f737ecc9201ec1147409dafc1121fe0a75e7b286cf6c7d0",
+    "download_timestamp": "2025-11-19T11:06:39.567431",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author information missing - cannot verify public domain status (conservative exclusion)",
+      "confidence": "low",
+      "analysis_date": "2025-11-23T12:31:44.641270"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-rrajagiriye-ariyagnaana-thero-books",
+    "Author": {
+      "name": "ven rrajagiriye ariyagnaana thero",
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – අත්හැරීම 05",
+    "book_name_en": "Maha Rahathun Wadi Maga Osse Book – Athhereema 05",
+    "number_of_pages": 50,
+    "published_date": "2015-02-17",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmTlhPYWVxYlhWRTg/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/17/%e0%b6%b8%e0%b7%84%e0%b6%bb%e0%b7%84%e0%b6%ad%e0%b7%94%e0%b6%b1%e0%b7%8a-%e0%b7%80%e0%b7%90%e0%b6%a9%e0%b7%92-%e0%b6%b8%e0%b6%9f-%e0%b6%94%e0%b7%83%e0%b7%8a%e0%b7%83%e0%b7%9a-%e0%b6%9c%e0%b7%8a-6/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-rrajagiriye-ariyagnaana-thero-books/මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – අත්හැරීම 05_Maha Rahathun Wadi Maga Osse Book – Athhereema 05.pdf",
+    "file_size_mb": 63.37,
+    "sha256_checksum": "6c5dceac147aac30efd1e3d72e5984c78dae6c48f42662fab0961a342ace4ad3",
+    "download_timestamp": "2025-11-19T11:06:55.899225",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author information missing - cannot verify public domain status (conservative exclusion)",
+      "confidence": "low",
+      "analysis_date": "2025-11-23T12:31:44.641276"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-rrajagiriye-ariyagnaana-thero-books",
+    "Author": {
+      "name": "ven rrajagiriye ariyagnaana thero",
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – අත්හැරීම 06",
+    "book_name_en": "Maha Rahathun Wadi Maga Osse Book – Athhereema 06",
+    "number_of_pages": 83,
+    "published_date": "2015-02-17",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmcGpZTEZDMTZZUEU/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/17/%e0%b6%b8%e0%b7%84%e0%b6%bb%e0%b7%84%e0%b6%ad%e0%b7%94%e0%b6%b1%e0%b7%8a-%e0%b7%80%e0%b7%90%e0%b6%a9%e0%b7%92-%e0%b6%b8%e0%b6%9f-%e0%b6%94%e0%b7%83%e0%b7%8a%e0%b7%83%e0%b7%9a-%e0%b6%9c%e0%b7%8a-7/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-rrajagiriye-ariyagnaana-thero-books/මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – අත්හැරීම 06_Maha Rahathun Wadi Maga Osse Book – Athhereema 06.pdf",
+    "file_size_mb": 0.9,
+    "sha256_checksum": "cf35a6226468c89eda07cdfc3875c28b7395bcdb56bbbb1af0fd15c3b72e7510",
+    "download_timestamp": "2025-11-19T11:07:02.657912",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author information missing - cannot verify public domain status (conservative exclusion)",
+      "confidence": "low",
+      "analysis_date": "2025-11-23T12:31:44.641282"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-rrajagiriye-ariyagnaana-thero-books",
+    "Author": {
+      "name": "ven rrajagiriye ariyagnaana thero",
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – අත්හැරීම 07",
+    "book_name_en": "Maha Rahathun Wadi Maga Osse Book – Athhereema 07",
+    "number_of_pages": 110,
+    "published_date": "2015-02-17",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmME91TEtYUjFIeTA/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/17/%e0%b6%b8%e0%b7%84%e0%b6%bb%e0%b7%84%e0%b6%ad%e0%b7%94%e0%b6%b1%e0%b7%8a-%e0%b7%80%e0%b7%90%e0%b6%a9%e0%b7%92-%e0%b6%b8%e0%b6%9f-%e0%b6%94%e0%b7%83%e0%b7%8a%e0%b7%83%e0%b7%9a-%e0%b6%9c%e0%b7%8a-8/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-rrajagiriye-ariyagnaana-thero-books/මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – අත්හැරීම 07_Maha Rahathun Wadi Maga Osse Book – Athhereema 07.pdf",
+    "file_size_mb": 1.24,
+    "sha256_checksum": "3d162ffdde5d704115198a2b679b4f3712e855940711773e366798d628f76a6e",
+    "download_timestamp": "2025-11-19T11:07:11.204107",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author information missing - cannot verify public domain status (conservative exclusion)",
+      "confidence": "low",
+      "analysis_date": "2025-11-23T12:31:44.641289"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-rrajagiriye-ariyagnaana-thero-books",
+    "Author": {
+      "name": "ven rrajagiriye ariyagnaana thero",
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – භාවනාව",
+    "book_name_en": "Maha Rahathun Wadi Maga Osse Book – Bhawanawa",
+    "number_of_pages": 15,
+    "published_date": "2015-02-17",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmZ2FLUDFncnc5b1E/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/17/%e0%b6%b8%e0%b7%84%e0%b6%bb%e0%b7%84%e0%b6%ad%e0%b7%94%e0%b6%b1%e0%b7%8a-%e0%b7%80%e0%b7%90%e0%b6%a9%e0%b7%92-%e0%b6%b8%e0%b6%9f-%e0%b6%94%e0%b7%83%e0%b7%8a%e0%b7%83%e0%b7%9a-%e0%b6%9c%e0%b7%8a-9/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-rrajagiriye-ariyagnaana-thero-books/මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – භාවනාව_Maha Rahathun Wadi Maga Osse Book – Bhawanawa.pdf",
+    "file_size_mb": 0.44,
+    "sha256_checksum": "aa1ba4509e7a7454d04d8b63058886ebcb0bd8913fa6097edb5a342850447453",
+    "download_timestamp": "2025-11-19T11:07:24.958582",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author information missing - cannot verify public domain status (conservative exclusion)",
+      "confidence": "low",
+      "analysis_date": "2025-11-23T12:31:44.641295"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-rrajagiriye-ariyagnaana-thero-books",
+    "Author": {
+      "name": "ven rrajagiriye ariyagnaana thero",
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – සංසාර බිය",
+    "book_name_en": "Maha Rahathun Wadi Maga Osse Book -sansara Biya",
+    "number_of_pages": 28,
+    "published_date": "2015-02-17",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmcUZZdi1ud0NYblU/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/17/%e0%b6%b8%e0%b7%84%e0%b6%bb%e0%b7%84%e0%b6%ad%e0%b7%94%e0%b6%b1%e0%b7%8a-%e0%b7%80%e0%b7%90%e0%b6%a9%e0%b7%92-%e0%b6%b8%e0%b6%9f-%e0%b6%94%e0%b7%83%e0%b7%8a%e0%b7%83%e0%b7%9a-%e0%b6%9c%e0%b7%8a-10/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-rrajagiriye-ariyagnaana-thero-books/මහරහතුන් වැඩි මඟ ඔස්සේ ග්‍රන්ථ – සංසාර බිය_Maha Rahathun Wadi Maga Osse Book -sansara Biya.pdf",
+    "file_size_mb": 0.62,
+    "sha256_checksum": "94b096f1ed6745141c3b04d2b1263d17223a7d0a57b483fd7a8f391757633fe1",
+    "download_timestamp": "2025-11-19T11:07:31.489410",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author information missing - cannot verify public domain status (conservative exclusion)",
+      "confidence": "low",
+      "analysis_date": "2025-11-23T12:31:44.641301"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-katukurunde-gnanananda-thero-books",
+    "Author": {
+      "name": "Ven Katukurunde Nanananda Bhikku",
+      "DOB": "1940-07-10",
+      "Date_of_passing": "2018-02-22"
+    },
+    "book_name_si": "නිවනේ නිවීම  01 –  පූජ්‍ය කටුකුරුන්දේ ඥාණානන්ද ස්වාමීන් වහන්සේ",
+    "book_name_en": "Niwane Niweema 01- Ven Katukurunde Nanananda Bhikku",
+    "number_of_pages": 81,
+    "published_date": "2015-03-27",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmMmNoNXQyS01waFk/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/27/%e0%b6%b1%e0%b7%92%e0%b7%80%e0%b6%b1%e0%b7%9a-%e0%b6%b1%e0%b7%92%e0%b7%80%e0%b7%93%e0%b6%b8-01-%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b6%9a%e0%b6%a7%e0%b7%94%e0%b6%9a%e0%b7%94/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-katukurunde-gnanananda-thero-books/නිවනේ නිවීම  01 –  පූජ්‍ය කටුකුරුන්දේ ඥාණානන්ද ස්වාමීන් වහන්සේ_Niwane Niweema 01- Ven Katukurunde Nanananda Bhikku.pdf",
+    "file_size_mb": 42.72,
+    "sha256_checksum": "f2e7c4b51a88e4921b8848cc64a4530eafdf5ea5c2d10d6a6627dba6698cd7ae",
+    "download_timestamp": "2025-11-19T11:08:47.596804",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 2018, protection ends 2088 (63 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641309"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-katukurunde-gnanananda-thero-books",
+    "Author": {
+      "name": "Ven Katukurunde Nanananda Bhikku",
+      "DOB": "1940-07-10",
+      "Date_of_passing": "2018-02-22"
+    },
+    "book_name_si": "නිවනේ නිවීම  02 –  පූජ්‍ය කටුකුරුන්දේ ඥාණානන්ද ස්වාමීන් වහන්සේ",
+    "book_name_en": "Niwane Niweema 02- Ven Katukurunde Nanananda Bhikku",
+    "number_of_pages": 41,
+    "published_date": "2015-03-27",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmRDd2MjF0cnUyOE0/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/27/%e0%b6%b1%e0%b7%92%e0%b7%80%e0%b6%b1%e0%b7%9a-%e0%b6%b1%e0%b7%92%e0%b7%80%e0%b7%93%e0%b6%b8-02-%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b6%9a%e0%b6%a7%e0%b7%94%e0%b6%9a%e0%b7%94/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-katukurunde-gnanananda-thero-books/නිවනේ නිවීම  02 –  පූජ්‍ය කටුකුරුන්දේ ඥාණානන්ද ස්වාමීන් වහන්සේ_Niwane Niweema 02- Ven Katukurunde Nanananda Bhikku.pdf",
+    "file_size_mb": 0.35,
+    "sha256_checksum": "520992f622d7d68cfe09c6524017c14c1bb45367adc03896114e56620860f63d",
+    "download_timestamp": "2025-11-19T11:08:53.551929",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 2018, protection ends 2088 (63 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641317"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-katukurunde-gnanananda-thero-books",
+    "Author": {
+      "name": "Ven Katukurunde Nanananda Bhikku",
+      "DOB": "1940-07-10",
+      "Date_of_passing": "2018-02-22"
+    },
+    "book_name_si": "නිවනේ නිවීම  03 –  පූජ්‍ය කටුකුරුන්දේ ඥාණානන්ද ස්වාමීන් වහන්සේ",
+    "book_name_en": "Niwane Niweema 03- Ven Katukurunde Nanananda Bhikku",
+    "number_of_pages": 90,
+    "published_date": "2015-03-27",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmcGdYRmRJLThoRUU/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/27/%e0%b6%b1%e0%b7%92%e0%b7%80%e0%b6%b1%e0%b7%9a-%e0%b6%b1%e0%b7%92%e0%b7%80%e0%b7%93%e0%b6%b8-03-%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b6%9a%e0%b6%a7%e0%b7%94%e0%b6%9a/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-katukurunde-gnanananda-thero-books/නිවනේ නිවීම  03 –  පූජ්‍ය කටුකුරුන්දේ ඥාණානන්ද ස්වාමීන් වහන්සේ_Niwane Niweema 03- Ven Katukurunde Nanananda Bhikku.pdf",
+    "file_size_mb": 44.06,
+    "sha256_checksum": "a302c2c5dd4c8006e5c88a6ac172c24083b5a56ebc3894cdcfe5c1ea62d7efb8",
+    "download_timestamp": "2025-11-19T11:09:04.837348",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 2018, protection ends 2088 (63 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641325"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-kiribathgoda-gnanananda-thero-books",
+    "Author": {
+      "name": "Ven Kiribathgoda Gnanananda Thera",
+      "DOB": "1961-07-01",
+      "Date_of_passing": null
+    },
+    "book_name_si": "සසරක රහස – පූජ්‍ය කිරිබත්ගොඩ ඤාණානන්ද ස්වාමීන් වහන්සේ",
+    "book_name_en": "Sasaraka rahasa – Ven Kiribathgoda Gnanananda Thera",
+    "number_of_pages": 102,
+    "published_date": "2015-03-19",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmWHpVQ2FjNWMwWlE/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/19/%e0%b7%83%e0%b7%83%e0%b6%bb%e0%b6%9a-%e0%b6%bb%e0%b7%84%e0%b7%83-sasaraka-rahasa/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-kiribathgoda-gnanananda-thero-books/සසරක රහස – පූජ්‍ය කිරිබත්ගොඩ ඤාණානන්ද ස්වාමීන් වහන්සේ_Sasaraka rahasa – Ven Kiribathgoda Gnanananda Thera.pdf",
+    "file_size_mb": 0.31,
+    "sha256_checksum": "6abaffaa3a94e3948c37bdffb5a8c45af44405db01939be25d6a5ab6d19e7877",
+    "download_timestamp": "2025-11-19T11:09:11.930036",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641331"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-kiribathgoda-gnanananda-thero-books",
+    "Author": {
+      "name": "Ven Kiribathgoda Gnanananda Thera",
+      "DOB": "1961-07-01",
+      "Date_of_passing": null
+    },
+    "book_name_si": "තෝරා ගනිමු සැබෑම නායකත්වය – පූජ්‍ය කිරිබත්ගොඩ ඤාණානන්ද ස්වාමීන් වහන්සේ",
+    "book_name_en": "Thoraganimu sebe nayakathwaya …",
+    "number_of_pages": 91,
+    "published_date": "2015-03-19",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmTWtzbmNNczZEczA/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/19/%e0%b6%ad%e0%b7%9d%e0%b6%bb%e0%b7%8f-%e0%b6%9c%e0%b6%b1%e0%b7%92%e0%b6%b8%e0%b7%94-%e0%b7%83%e0%b7%90%e0%b6%b6%e0%b7%91%e0%b6%b8-%e0%b6%b1%e0%b7%8f%e0%b6%ba%e0%b6%9a%e0%b6%ad%e0%b7%8a%e0%b7%80/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-kiribathgoda-gnanananda-thero-books/තෝරා ගනිමු සැබෑම නායකත්වය – පූජ්‍ය කිරිබත්ගොඩ ඤාණානන්ද ස්වාමීන් වහන්සේ_Thoraganimu sebe nayakathwaya ….pdf",
+    "file_size_mb": 1.26,
+    "sha256_checksum": "81164e3edfabe96c354a608133db08c88f5432dedbd7f6bc791caee2462f52c0",
+    "download_timestamp": "2025-11-19T11:09:19.764167",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641338"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-kiribathgoda-gnanananda-thero-books",
+    "Author": {
+      "name": "Ven Kiribathgoda Gnanananda Thera",
+      "DOB": "1961-07-01",
+      "Date_of_passing": null
+    },
+    "book_name_si": "සිත සනසන අමාදහම් – පූජ්‍ය කිරිබත්ගොඩ ඤාණානන්ද ස්වාමීන් වහන්සේ",
+    "book_name_en": "Sitha sanasana ama daham …",
+    "number_of_pages": 84,
+    "published_date": "2015-03-19",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmdmQtWnMyd013M28/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/19/%e0%b7%83%e0%b7%92%e0%b6%ad-%e0%b7%83%e0%b6%b1%e0%b7%83%e0%b6%b1-%e0%b6%85%e0%b6%b8%e0%b7%8f%e0%b6%af%e0%b7%84%e0%b6%b8%e0%b7%8a-sitha-sanasana-ama-daham/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-kiribathgoda-gnanananda-thero-books/සිත සනසන අමාදහම් – පූජ්‍ය කිරිබත්ගොඩ ඤාණානන්ද ස්වාමීන් වහන්සේ_Sitha sanasana ama daham ….pdf",
+    "file_size_mb": 0.3,
+    "sha256_checksum": "fdb5638e5a9e1317563c15222f9ed0396b999f93cf47576b99805f5c51593dcb",
+    "download_timestamp": "2025-11-19T11:09:34.450582",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641344"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-kiribathgoda-gnanananda-thero-books",
+    "Author": {
+      "name": "Ven Kiribathgoda Gnanananda Thera",
+      "DOB": "1961-07-01",
+      "Date_of_passing": null
+    },
+    "book_name_si": "සොදුරු හුදෙකලාව …  පූජ්‍ය කිරිබත්ගොඩ ඤාණානන්ද ස්වාමීන් වහන්සේ",
+    "book_name_en": "Sonduru Hudekalawa – Ven Kiribathgoda Gnanananda Thera",
+    "number_of_pages": 321,
+    "published_date": "2015-03-19",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmV0JYTXhPMk84eFU/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/19/%e0%b7%83%e0%b7%9c%e0%b6%af%e0%b7%94%e0%b6%bb%e0%b7%94-%e0%b7%84%e0%b7%94%e0%b6%af%e0%b7%99%e0%b6%9a%e0%b6%bd%e0%b7%8f%e0%b7%80-sonduru-hudekalawa/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-kiribathgoda-gnanananda-thero-books/සොදුරු හුදෙකලාව …  පූජ්‍ය කිරිබත්ගොඩ ඤාණානන්ද ස්වාමීන් වහන්සේ_Sonduru Hudekalawa – Ven Kiribathgoda Gnanananda Thera.pdf",
+    "file_size_mb": 0.66,
+    "sha256_checksum": "374e34b67068ea8a8050a03755cfc03fc2aa32e14d50367f70f10cc92cec9e07",
+    "download_timestamp": "2025-11-19T11:09:46.951050",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641350"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-kiribathgoda-gnanananda-thero-books",
+    "Author": {
+      "name": "Ven Kiribathgoda Gnanananda Thera",
+      "DOB": "1961-07-01",
+      "Date_of_passing": null
+    },
+    "book_name_si": "අනාගතවංශ දේශනාව",
+    "book_name_en": "Anagatawamsa Deshanawa",
+    "number_of_pages": 35,
+    "published_date": "2015-03-08",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmVVFRY01XYmdEVjA/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/08/%e0%b6%85%e0%b6%b1%e0%b7%8f%e0%b6%9c%e0%b6%ad%e0%b7%80%e0%b6%82%e0%b7%81-%e0%b6%af%e0%b7%9a%e0%b7%81%e0%b6%b1%e0%b7%8f%e0%b7%80-anagatawamsa-deshanawa/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-kiribathgoda-gnanananda-thero-books/අනාගතවංශ දේශනාව_Anagatawamsa Deshanawa.pdf",
+    "file_size_mb": 3.76,
+    "sha256_checksum": "1c0447f5ee32a2d8de9fb047622784d600b6ca20c7f4309c05f9e399fe3fe34e",
+    "download_timestamp": "2025-11-19T11:09:56.073902",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641356"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-kiribathgoda-gnanananda-thero-books",
+    "Author": {
+      "name": "Ven Kiribathgoda Gnanananda Thera",
+      "DOB": "1961-07-01",
+      "Date_of_passing": null
+    },
+    "book_name_si": "බුද්ධියේ හිරු කිරණ – පූජ්‍ය කිරිබත්ගොඩ ඤාණානන්ද ස්වාමීන් වහන්සේ –",
+    "book_name_en": "Buddhiye hiru kirana – Ven Kiribathgoda Gnanananda Thera",
+    "number_of_pages": 74,
+    "published_date": "2015-02-21",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmZUhGZUdSNWFiaU0/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/21/%e0%b6%b6%e0%b7%94%e0%b6%af%e0%b7%8a%e0%b6%b0%e0%b7%92%e0%b6%ba%e0%b7%9a-%e0%b7%84%e0%b7%92%e0%b6%bb%e0%b7%94-%e0%b6%9a%e0%b7%92%e0%b6%bb%e0%b6%ab-%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8a/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-kiribathgoda-gnanananda-thero-books/බුද්ධියේ හිරු කිරණ – පූජ්‍ය කිරිබත්ගොඩ ඤාණානන්ද ස්වාමීන් වහන්සේ –_Buddhiye hiru kirana – Ven Kiribathgoda Gnanananda Thera.pdf",
+    "file_size_mb": 0.29,
+    "sha256_checksum": "c06a901ed28d85ff5fbbfa3e1d95f1e1066d15c9a2fd20eee4f243512b67cbd9",
+    "download_timestamp": "2025-11-19T11:10:02.257937",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641362"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-kiribathgoda-gnanananda-thero-books",
+    "Author": {
+      "name": "Ven Kiribathgoda Gnanananda Thera",
+      "DOB": "1961-07-01",
+      "Date_of_passing": null
+    },
+    "book_name_si": "පින සහ අවබෝධය  – පූජ්‍ය කිරිබත්ගොඩ ඤාණානන්ද ස්වාමීන් වහන්සේ –",
+    "book_name_en": "Pina saha awabodhaya – Ven Kiribathgoda Gnanananda Thera",
+    "number_of_pages": 116,
+    "published_date": "2015-02-21",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmaFVfY2xTT1VhTHc/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/21/%e0%b6%b4%e0%b7%92%e0%b6%b1-%e0%b7%83%e0%b7%84-%e0%b6%85%e0%b7%80%e0%b6%b6%e0%b7%9d%e0%b6%b0%e0%b6%ba-%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b6%9a%e0%b7%92%e0%b6%bb/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-kiribathgoda-gnanananda-thero-books/පින සහ අවබෝධය  – පූජ්‍ය කිරිබත්ගොඩ ඤාණානන්ද ස්වාමීන් වහන්සේ –_Pina saha awabodhaya – Ven Kiribathgoda Gnanananda Thera.pdf",
+    "file_size_mb": 0.5,
+    "sha256_checksum": "bc9f8640baa3676155b0c87e6320d9d4fe7cd8af595f4f9a673b3c4a8aa35acf",
+    "download_timestamp": "2025-11-19T11:10:12.365353",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641368"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-galigamuwe-gnanadeepa-thero-books",
+    "Author": {
+      "name": "Galigamuwe Gnanadeepa Thero",
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "කායානුපස්සනා භාවනා – පූජ්‍ය ගලිගමුවේ ඥානදීප හිමි",
+    "book_name_en": "kayanupassana Bhawana – Galigamuwe Gnanadeepa Thero",
+    "number_of_pages": 91,
+    "published_date": "2015-02-26",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmVjEtdjJqZmtBN00/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/26/%e0%b6%9a%e0%b7%8f%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94%e0%b6%b4%e0%b7%83%e0%b7%8a%e0%b7%83%e0%b6%b1%e0%b7%8f-%e0%b6%b7%e0%b7%8f%e0%b7%80%e0%b6%b1%e0%b7%8f-%e0%b6%b4%e0%b7%96%e0%b6%a2/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-galigamuwe-gnanadeepa-thero-books/කායානුපස්සනා භාවනා – පූජ්‍ය ගලිගමුවේ ඥානදීප හිමි_kayanupassana Bhawana – Galigamuwe Gnanadeepa Thero.pdf",
+    "file_size_mb": 0.31,
+    "sha256_checksum": "daf3942d7d6024ba1e4fac806822fbb7943a136027948a2edb0203a388dba707",
+    "download_timestamp": "2025-11-19T11:10:23.572407",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author information missing - cannot verify public domain status (conservative exclusion)",
+      "confidence": "low",
+      "analysis_date": "2025-11-23T12:31:44.641374"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-galigamuwe-gnanadeepa-thero-books",
+    "Author": {
+      "name": "Galigamuwe Gnanadeepa Thero",
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "ආනාපානාසති භාවනාව – පූජ්‍ය ගලිගමුවේ ඥානදීප හිමි",
+    "book_name_en": "Anapanasathi Bhawanawa – Galigamuwe Gnanadeepa Thero",
+    "number_of_pages": 54,
+    "published_date": "2015-02-25",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmQk1yYk16Rmt4bzA/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/25/%e0%b6%86%e0%b6%b1%e0%b7%8f%e0%b6%b4%e0%b7%8f%e0%b6%b1%e0%b7%8f%e0%b7%83%e0%b6%ad%e0%b7%92-%e0%b6%b7%e0%b7%8f%e0%b7%80%e0%b6%b1%e0%b7%8f%e0%b7%80-%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8a%e2%80%8d/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-galigamuwe-gnanadeepa-thero-books/ආනාපානාසති භාවනාව – පූජ්‍ය ගලිගමුවේ ඥානදීප හිමි_Anapanasathi Bhawanawa – Galigamuwe Gnanadeepa Thero.pdf",
+    "file_size_mb": 0.22,
+    "sha256_checksum": "1d515eaf352369bb9823e1275c591ef71ab1adca6b0396f02a73f1566cad0a7c",
+    "download_timestamp": "2025-11-19T11:10:31.653961",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author information missing - cannot verify public domain status (conservative exclusion)",
+      "confidence": "low",
+      "analysis_date": "2025-11-23T12:31:44.641380"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "ven-nawalapitiye-ariyawansa-thero",
+    "Author": {
+      "name": "Ven. Nawalapitiye Ariyawansa Thero",
+      "DOB": null,
+      "Date_of_passing": null
+    },
+    "book_name_si": "ජරා මරණ දුකින් මිදෙමු –  නාවලපිටියේ අරියවංශ හිමි",
+    "book_name_en": "Jara marana dukin midemu – Ven. Nawalapitiye Ariyawansa Thero",
+    "number_of_pages": 98,
+    "published_date": "2015-02-26",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmN1p0WTU0VzA1Mms/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/02/26/%e0%b6%a2%e0%b6%bb%e0%b7%8f-%e0%b6%b8%e0%b6%bb%e0%b6%ab-%e0%b6%af%e0%b7%94%e0%b6%9a%e0%b7%92%e0%b6%b1%e0%b7%8a-%e0%b6%b8%e0%b7%92%e0%b6%af%e0%b7%99%e0%b6%b8%e0%b7%94-%e0%b6%b1%e0%b7%8f%e0%b7%80/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/ven-nawalapitiye-ariyawansa-thero/ජරා මරණ දුකින් මිදෙමු –  නාවලපිටියේ අරියවංශ හිමි_Jara marana dukin midemu – Ven. Nawalapitiye Ariyawansa Thero.pdf",
+    "file_size_mb": 0.68,
+    "sha256_checksum": "337d0f480226802d017db0833b3e85aeb922d3b94db86ad55533a9ced64184b9",
+    "download_timestamp": "2025-11-19T11:10:40.203740",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author information missing - cannot verify public domain status (conservative exclusion)",
+      "confidence": "low",
+      "analysis_date": "2025-11-23T12:31:44.641387"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "buddhist-characters",
+    "Author": {
+      "name": "Ven. Nauyane Ariyadhamma Thero",
+      "DOB": "1955-01-01",
+      "Date_of_passing": "2016-01-01"
+    },
+    "book_name_si": "අතිපූජ්‍ය මාතර ශ්‍රී ඥානාරාම හිමි චරිතාපදානය",
+    "book_name_en": "Most Venerable Mathara Sri Gnarama Thero’s character",
+    "number_of_pages": 183,
+    "published_date": "2015-11-23",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmSGN1cHAtejh2bGs/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/11/23/%e0%b6%85%e0%b6%ad%e0%b7%92%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b6%b8%e0%b7%8f%e0%b6%ad%e0%b6%bb-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93-%e0%b6%a5%e0%b7%8f%e0%b6%b1/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/buddhist-characters/අතිපූජ්‍ය මාතර ශ්‍රී ඥානාරාම හිමි චරිතාපදානය_Most Venerable Mathara Sri Gnarama Thero’s character.pdf",
+    "file_size_mb": 40.0,
+    "sha256_checksum": "60e96a79aa833b27f8d40d5d5be14b5362399aea9467b1fb7cd016e1322d1dfe",
+    "download_timestamp": "2025-11-19T11:10:49.197174",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 2016, protection ends 2086 (61 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641395"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "buddhist-characters",
+    "Author": {
+      "name": "IFBC",
+      "DOB": "1855-01-01",
+      "Date_of_passing": "1954-01-01"
+    },
+    "book_name_si": "අතිපූජ්‍ය කඩවැද්දුවේ ජිනාලංකාර හිමි චරිතාපදානය",
+    "book_name_en": "MostMost Venerable Kadawadduwe Jinalankara Thero’s character",
+    "number_of_pages": 74,
+    "published_date": "2015-11-23",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmTE5fWWlfWXNSaDQ/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/11/23/%e0%b6%85%e0%b6%ad%e0%b7%92%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b6%9a%e0%b6%a9%e0%b7%80%e0%b7%90%e0%b6%af%e0%b7%8a%e0%b6%af%e0%b7%94%e0%b7%80%e0%b7%9a-%e0%b6%a2%e0%b7%92%e0%b6%b1/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/buddhist-characters/අතිපූජ්‍ය කඩවැද්දුවේ ජිනාලංකාර හිමි චරිතාපදානය_MostMost Venerable Kadawadduwe Jinalankara Thero’s character.pdf",
+    "file_size_mb": 4.67,
+    "sha256_checksum": "956ba7aa02626deda53dbe56f9ee08a8f23baff59dda76da9fc5861e55bdac06",
+    "download_timestamp": "2025-11-19T11:10:56.693049",
+    "copyright_analysis": {
+      "can_include_in_corpus": true,
+      "reason": "Public domain - author died in 1954 (>70 years ago)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641412"
+    },
+    "extraction": {
+      "status": "complete",
+      "extraction_timestamp": "2025-11-23T18:06:58.617435",
+      "extraction_duration_seconds": 29.49,
+      "page_info": {
+        "total_pages": 74,
+        "text_based_pages": 67,
+        "ocr_pages": 7,
+        "failed_pages": 0
+      },
+      "methods_used": {
+        "pdfplumber": 67,
+        "document_ai": 7,
+        "failed": 0
+      },
+      "page_classification": {
+        "cover": 0,
+        "toc": 0,
+        "content": 18,
+        "index": 0,
+        "blank": 7,
+        "other": 49
+      },
+      "quality_metrics": {
+        "ocr_confidence": {
+          "avg_confidence": 0.812,
+          "min_confidence": 0,
+          "max_confidence": 0.973,
+          "low_confidence_pages": [
+            1
+          ],
+          "distribution": {
+            "high_0.9_to_1.0": 6,
+            "medium_0.7_to_0.9": 0,
+            "low_below_0.7": 1
+          }
+        }
+      },
+      "file_paths": {
+        "raw_text_dir": "data/extracted/raw_text/buddhist-characters/අතිපූජ්‍ය කඩවැද්දුවේ ජිනාලංකාර හිමි චරිතාපදානය",
+        "filtered_text_dir": "data/extracted/filtered_text/buddhist-characters/අතිපූජ්‍ය කඩවැද්දුවේ ජිනාලංකාර හිමි චරිතාපදානය",
+        "book_metadata_dir": "data/extracted/book_metadata/buddhist-characters/අතිපූජ්‍ය කඩවැද්දුවේ ජිනාලංකාර හිමි චරිතාපදානය"
+      }
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "buddhist-characters",
+    "Author": {
+      "name": "IFBC",
+      "DOB": "1855-01-01",
+      "Date_of_passing": "1954-01-01"
+    },
+    "book_name_si": "අති උත්තම ආචාර්ය මන් භූරිදතත හිමි චරිතාපදානය",
+    "book_name_en": "Most VenerableMan Buridaththa Thero’s Character",
+    "number_of_pages": 364,
+    "published_date": "2015-03-04",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmTF9MYnNPTF9SSHM/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/04/%e0%b6%85%e0%b6%ad%e0%b7%92-%e0%b6%8b%e0%b6%ad%e0%b7%8a%e0%b6%ad%e0%b6%b8-%e0%b6%86%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b7%8a%e0%b6%ba-%e0%b6%b8%e0%b6%b1%e0%b7%8a-%e0%b6%b7%e0%b7%96%e0%b6%bb%e0%b7%92/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/buddhist-characters/අති උත්තම ආචාර්ය මන් භූරිදතත හිමි චරිතාපදානය_Most VenerableMan Buridaththa Thero’s Character.pdf",
+    "file_size_mb": 3.86,
+    "sha256_checksum": "e03182f8c062c4c2a10e73dc1fbc6c4080cff8f9034476dff1ee51249a2362ee",
+    "download_timestamp": "2025-11-19T11:11:08.548318",
+    "copyright_analysis": {
+      "can_include_in_corpus": true,
+      "reason": "Public domain - author died in 1954 (>70 years ago)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641420"
+    },
+    "extraction": {
+      "status": "complete",
+      "extraction_timestamp": "2025-11-23T18:10:40.688989",
+      "extraction_duration_seconds": 219.62,
+      "page_info": {
+        "total_pages": 364,
+        "text_based_pages": 335,
+        "ocr_pages": 29,
+        "failed_pages": 0
+      },
+      "methods_used": {
+        "pdfplumber": 335,
+        "document_ai": 29,
+        "failed": 0
+      },
+      "page_classification": {
+        "cover": 2,
+        "toc": 0,
+        "content": 83,
+        "index": 0,
+        "blank": 25,
+        "other": 254
+      },
+      "quality_metrics": {
+        "ocr_confidence": {
+          "avg_confidence": 0.198,
+          "min_confidence": 0,
+          "max_confidence": 0.974,
+          "low_confidence_pages": [
+            3,
+            16,
+            19,
+            20,
+            21,
+            22,
+            56,
+            57,
+            58,
+            59,
+            60,
+            150,
+            151,
+            152,
+            153,
+            256,
+            257,
+            258,
+            259,
+            260,
+            323,
+            324,
+            325,
+            326,
+            327
+          ],
+          "distribution": {
+            "high_0.9_to_1.0": 4,
+            "medium_0.7_to_0.9": 0,
+            "low_below_0.7": 25
+          }
+        }
+      },
+      "file_paths": {
+        "raw_text_dir": "data/extracted/raw_text/buddhist-characters/අති උත්තම ආචාර්ය මන් භූරිදතත හිමි චරිතාපදානය",
+        "filtered_text_dir": "data/extracted/filtered_text/buddhist-characters/අති උත්තම ආචාර්ය මන් භූරිදතත හිමි චරිතාපදානය",
+        "book_metadata_dir": "data/extracted/book_metadata/buddhist-characters/අති උත්තම ආචාර්ය මන් භූරිදතත හිමි චරිතාපදානය"
+      }
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "buddhist-characters",
+    "Author": {
+      "name": "IFBC",
+      "DOB": "1855-01-01",
+      "Date_of_passing": "1954-01-01"
+    },
+    "book_name_si": "අතිපූජ්‍ය රේරුක‍ාණේ චන්දවිමල හිමි චරිතාපදානය",
+    "book_name_en": "MostMost Venerable Rerukane Chandawimala Maha Nayaka Thero’s character",
+    "number_of_pages": null,
+    "published_date": "2015-03-04",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmLXdZLVhTWW5McXM/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/03/04/%e0%b6%85%e0%b6%ad%e0%b7%92%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b6%bb%e0%b7%9a%e0%b6%bb%e0%b7%94%e0%b6%9a%e2%80%8d%e0%b7%8f%e0%b6%ab%e0%b7%9a-%e0%b6%a0%e0%b6%b1%e0%b7%8a%e0%b6%af/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/buddhist-characters/අතිපූජ්‍ය රේරුක‍ාණේ චන්දවිමල හිමි චරිතාපදානය_MostMost Venerable Rerukane Chandawimala Maha Nayaka Thero’s character.pdf",
+    "file_size_mb": 22.56,
+    "sha256_checksum": "fa47ebc31313851f0987d8a55cdebdaedf806c09e80da2c5220496f6b91273cf",
+    "download_timestamp": "2025-11-19T11:11:19.472114",
+    "copyright_analysis": {
+      "can_include_in_corpus": true,
+      "reason": "Public domain - author died in 1954 (>70 years ago)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641428"
+    },
+    "extraction": {
+      "status": "complete",
+      "extraction_timestamp": "2025-11-23T18:15:53.208869",
+      "extraction_duration_seconds": 311.42,
+      "page_info": {
+        "total_pages": 117,
+        "text_based_pages": 0,
+        "ocr_pages": 117,
+        "failed_pages": 0
+      },
+      "methods_used": {
+        "pdfplumber": 0,
+        "document_ai": 117,
+        "failed": 0
+      },
+      "page_classification": {
+        "cover": 2,
+        "toc": 1,
+        "content": 114,
+        "index": 0,
+        "blank": 0,
+        "other": 0
+      },
+      "quality_metrics": {
+        "ocr_confidence": {
+          "avg_confidence": 0.975,
+          "min_confidence": 0.626,
+          "max_confidence": 0.988,
+          "low_confidence_pages": [
+            15
+          ],
+          "distribution": {
+            "high_0.9_to_1.0": 115,
+            "medium_0.7_to_0.9": 1,
+            "low_below_0.7": 1
+          }
+        }
+      },
+      "file_paths": {
+        "raw_text_dir": "data/extracted/raw_text/buddhist-characters/අතිපූජ්‍ය රේරුක‍ාණේ චන්දවිමල හිමි චරිතාපදානය",
+        "filtered_text_dir": "data/extracted/filtered_text/buddhist-characters/අතිපූජ්‍ය රේරුක‍ාණේ චන්දවිමල හිමි චරිතාපදානය",
+        "book_metadata_dir": "data/extracted/book_metadata/buddhist-characters/අතිපූජ්‍ය රේරුක‍ාණේ චන්දවිමල හිමි චරිතාපදානය"
+      }
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "kukulpane-sudassi-himi",
+    "Author": {
+      "name": " Kukulpane sudassi himi",
+      "DOB": "1973-06-08",
+      "Date_of_passing": null
+    },
+    "book_name_si": "සිතේ සැබෑව …කුකුල්පනේ සුදස්සී හිමි",
+    "book_name_en": "Sithe sabewa – Kukulpane sudassi himi",
+    "number_of_pages": 19,
+    "published_date": "2015-06-13",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmeWVmNkh4YVJQcHc/view",
+    "post_url": "https://download.ifbcnet.org/2015/06/13/%e0%b7%83%e0%b7%92%e0%b6%ad%e0%b7%9a-%e0%b7%83%e0%b7%90%e0%b6%b6%e0%b7%91%e0%b7%80-%e0%b6%9a%e0%b7%94%e0%b6%9a%e0%b7%94%e0%b6%bd%e0%b7%8a%e0%b6%b4%e0%b6%b1%e0%b7%9a-%e0%b7%83%e0%b7%94%e0%b6%af/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/kukulpane-sudassi-himi/සිතේ සැබෑව …කුකුල්පනේ සුදස්සී හිමි_Sithe sabewa – Kukulpane sudassi himi.pdf",
+    "file_size_mb": 4.83,
+    "sha256_checksum": "ef3e02e5cda515d5850a0875a2734d6506a213b00e061754a36ee8b6c865fc97",
+    "download_timestamp": "2025-11-19T11:11:29.182489",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641435"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "kukulpane-sudassi-himi",
+    "Author": {
+      "name": " Kukulpane sudassi himi",
+      "DOB": "1973-06-08",
+      "Date_of_passing": null
+    },
+    "book_name_si": "සාංඝික දානයක් දෙනවිට …කුකුල්පනේ සුදස්සී හිමි",
+    "book_name_en": "Sangika danayak denawita … – Kukulpane sudassi himi",
+    "number_of_pages": 16,
+    "published_date": "2015-06-13",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmekxfeW12WVlsVHM/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/06/13/%e0%b7%83%e0%b7%8f%e0%b6%82%e0%b6%9d%e0%b7%92%e0%b6%9a-%e0%b6%af%e0%b7%8f%e0%b6%b1%e0%b6%ba%e0%b6%9a%e0%b7%8a-%e0%b6%af%e0%b7%99%e0%b6%b1%e0%b7%80%e0%b7%92%e0%b6%a7-%e0%b6%9a%e0%b7%94%e0%b6%9a/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/kukulpane-sudassi-himi/සාංඝික දානයක් දෙනවිට …කුකුල්පනේ සුදස්සී හිමි_Sangika danayak denawita … – Kukulpane sudassi himi.pdf",
+    "file_size_mb": 4.26,
+    "sha256_checksum": "003b1efda5232297629faa43178f61ba5d40127c9ead35ce7119989d0efec328",
+    "download_timestamp": "2025-11-19T11:11:37.453347",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641442"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "kukulpane-sudassi-himi",
+    "Author": {
+      "name": " Kukulpane sudassi himi",
+      "DOB": "1973-06-08",
+      "Date_of_passing": null
+    },
+    "book_name_si": "ලොව්තුරු සුව සදන ඉවසීම – කුකුල්පනේ සුදස්සී හිමි",
+    "book_name_en": "Lowthuru suwa sadana iwaseema – Kukulpane sudassi himi",
+    "number_of_pages": 16,
+    "published_date": "2015-06-13",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmYVRhbUx4MGZBNmM/view",
+    "post_url": "https://download.ifbcnet.org/2015/06/13/%e0%b6%bd%e0%b7%9c%e0%b7%80%e0%b7%8a%e0%b6%ad%e0%b7%94%e0%b6%bb%e0%b7%94-%e0%b7%83%e0%b7%94%e0%b7%80-%e0%b7%83%e0%b6%af%e0%b6%b1-%e0%b6%89%e0%b7%80%e0%b7%83%e0%b7%93%e0%b6%b8-%e0%b6%9a%e0%b7%94/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/kukulpane-sudassi-himi/ලොව්තුරු සුව සදන ඉවසීම – කුකුල්පනේ සුදස්සී හිමි_Lowthuru suwa sadana iwaseema – Kukulpane sudassi himi.pdf",
+    "file_size_mb": 4.15,
+    "sha256_checksum": "9468390b38dba20e1d6f8ac0fa25d95ea57f6ee1097c377e08a53d61268cc0e8",
+    "download_timestamp": "2025-11-19T11:11:47.152488",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641448"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "kukulpane-sudassi-himi",
+    "Author": {
+      "name": " Kukulpane sudassi himi",
+      "DOB": "1973-06-08",
+      "Date_of_passing": null
+    },
+    "book_name_si": "නොනිමෙන මරණයේ නොමියෙන අරුත්- කුකුල්පනේ සුදස්සී හිමි",
+    "book_name_en": "Nonimena maranaye nomiyena aruth – Kukulpane sudassi himi",
+    "number_of_pages": 16,
+    "published_date": "2015-06-13",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmYVRhbUx4MGZBNmM/view",
+    "post_url": "https://download.ifbcnet.org/2015/06/13/%e0%b6%b1%e0%b7%9c%e0%b6%b1%e0%b7%92%e0%b6%b8%e0%b7%99%e0%b6%b1-%e0%b6%b8%e0%b6%bb%e0%b6%ab%e0%b6%ba%e0%b7%9a-%e0%b6%b1%e0%b7%9c%e0%b6%b8%e0%b7%92%e0%b6%ba%e0%b7%99%e0%b6%b1-%e0%b6%85%e0%b6%bb/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/kukulpane-sudassi-himi/නොනිමෙන මරණයේ නොමියෙන අරුත්- කුකුල්පනේ සුදස්සී හිමි_Nonimena maranaye nomiyena aruth – Kukulpane sudassi himi.pdf",
+    "file_size_mb": 4.15,
+    "sha256_checksum": "9468390b38dba20e1d6f8ac0fa25d95ea57f6ee1097c377e08a53d61268cc0e8",
+    "download_timestamp": "2025-11-19T11:11:56.645243",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641454"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "kukulpane-sudassi-himi",
+    "Author": {
+      "name": " Kukulpane sudassi himi",
+      "DOB": "1973-06-08",
+      "Date_of_passing": null
+    },
+    "book_name_si": "නිවනට මග සදන ස්ථූප – කුකුල්පනේ සුදස්සී හිමි",
+    "book_name_en": "Niwanata maga sadana sthupa – Kukulpane sudassi himi",
+    "number_of_pages": 16,
+    "published_date": "2015-06-13",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmekxfeW12WVlsVHM/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/06/13/%e0%b6%b1%e0%b7%92%e0%b7%80%e0%b6%b1%e0%b6%a7-%e0%b6%b8%e0%b6%9c-%e0%b7%83%e0%b6%af%e0%b6%b1-%e0%b7%83%e0%b7%8a%e0%b6%ae%e0%b7%96%e0%b6%b4/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/kukulpane-sudassi-himi/නිවනට මග සදන ස්ථූප – කුකුල්පනේ සුදස්සී හිමි_Niwanata maga sadana sthupa – Kukulpane sudassi himi.pdf",
+    "file_size_mb": 4.26,
+    "sha256_checksum": "003b1efda5232297629faa43178f61ba5d40127c9ead35ce7119989d0efec328",
+    "download_timestamp": "2025-11-19T11:12:05.327440",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641460"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "kukulpane-sudassi-himi",
+    "Author": {
+      "name": " Kukulpane sudassi himi",
+      "DOB": "1973-06-08",
+      "Date_of_passing": null
+    },
+    "book_name_si": "නැණස වසන නීවරණපූජ්‍ය කුකුල්පනේ සුදස්සී හිමි",
+    "book_name_en": "Nenasa wasana neewarana – Ven. Kukulpane sudassi himi",
+    "number_of_pages": 16,
+    "published_date": "2015-05-22",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmekxfeW12WVlsVHM/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/05/22/%e0%b6%b1%e0%b7%90%e0%b6%ab%e0%b7%83-%e0%b7%80%e0%b7%83%e0%b6%b1-%e0%b6%b1%e0%b7%93%e0%b7%80%e0%b6%bb%e0%b6%ab/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/kukulpane-sudassi-himi/නැණස වසන නීවරණපූජ්‍ය කුකුල්පනේ සුදස්සී හිමි_Nenasa wasana neewarana – Ven. Kukulpane sudassi himi.pdf",
+    "file_size_mb": 4.26,
+    "sha256_checksum": "003b1efda5232297629faa43178f61ba5d40127c9ead35ce7119989d0efec328",
+    "download_timestamp": "2025-11-19T11:12:12.027388",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641466"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "kukulpane-sudassi-himi",
+    "Author": {
+      "name": " Kukulpane sudassi himi",
+      "DOB": "1973-06-08",
+      "Date_of_passing": null
+    },
+    "book_name_si": "ද්වේෂය දුරු කරන්නේ කෙසේද ? පූජ්‍ය කුකුල්පනේ සුදස්සී හිමි",
+    "book_name_en": "Dweshaya duru karanne keseda ? – Ven. Kukulpane sudassi himi",
+    "number_of_pages": 36,
+    "published_date": "2015-05-22",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmQ084VnZMaFNvbk0/view",
+    "post_url": "https://download.ifbcnet.org/2015/05/22/%e0%b6%af%e0%b7%8a%e0%b7%80%e0%b7%9a%e0%b7%82%e0%b6%ba-%e0%b6%af%e0%b7%94%e0%b6%bb%e0%b7%94-%e0%b6%9a%e0%b6%bb%e0%b6%b1%e0%b7%8a%e0%b6%b1%e0%b7%9a-%e0%b6%9a%e0%b7%99%e0%b7%83%e0%b7%9a%e0%b6%af/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/kukulpane-sudassi-himi/ද්වේෂය දුරු කරන්නේ කෙසේද _ පූජ්‍ය කුකුල්පනේ සුදස්සී හිමි_Dweshaya duru karanne keseda _ – Ven. Kukulpane sudassi himi.pdf",
+    "file_size_mb": 7.78,
+    "sha256_checksum": "76c8c86999f0cfbc53552218eb525aab911e2a1e8c5c79de63ac8f1ca8870eca",
+    "download_timestamp": "2025-11-19T11:12:22.748642",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641472"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "kukulpane-sudassi-himi",
+    "Author": {
+      "name": " Kukulpane sudassi himi",
+      "DOB": "1973-06-08",
+      "Date_of_passing": null
+    },
+    "book_name_si": "දැනගෙන පිදිය යුතු කඨින චීවරය- පූජ්‍ය කුකුල්පනේ සුදස්සී හිමි",
+    "book_name_en": "Danagena Pidiya yuthu katina chiwaraya – Ven. Kukulpane sudassi himi",
+    "number_of_pages": 16,
+    "published_date": "2015-05-22",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmakh4TnJjOThiZFk/view",
+    "post_url": "https://download.ifbcnet.org/2015/05/22/%e0%b6%af%e0%b7%90%e0%b6%b1%e0%b6%9c%e0%b7%99%e0%b6%b1-%e0%b6%b4%e0%b7%92%e0%b6%af%e0%b7%92%e0%b6%ba-%e0%b6%ba%e0%b7%94%e0%b6%ad%e0%b7%94-%e0%b6%9a%e0%b6%a8%e0%b7%92%e0%b6%b1-%e0%b6%a0%e0%b7%93/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/kukulpane-sudassi-himi/දැනගෙන පිදිය යුතු කඨින චීවරය- පූජ්‍ය කුකුල්පනේ සුදස්සී හිමි_Danagena Pidiya yuthu katina chiwaraya – Ven. Kukulpane sudassi himi.pdf",
+    "file_size_mb": 3.81,
+    "sha256_checksum": "3c6a535edee3dbb87515a4063f598d50f054801efe44a68bb993775af039bfa2",
+    "download_timestamp": "2025-11-19T11:12:29.416538",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641478"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "kukulpane-sudassi-himi",
+    "Author": {
+      "name": " Kukulpane sudassi himi",
+      "DOB": "1973-06-08",
+      "Date_of_passing": null
+    },
+    "book_name_si": "තෙසැත්තෑ ඤාණ පූජාව – පූජ්‍ය කුකුල්පනේ සුදස්සී හිමි",
+    "book_name_en": "Thesathte gna Poojawa – Ven. Kukulpane sudassi himi",
+    "number_of_pages": 40,
+    "published_date": "2015-05-22",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmQnA1S1ZzbVlkYmM/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/05/22/%e0%b6%ad%e0%b7%99%e0%b7%83%e0%b7%90%e0%b6%ad%e0%b7%8a%e0%b6%ad%e0%b7%91-%e0%b6%a4%e0%b7%8f%e0%b6%ab-%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8f%e0%b7%80-%e0%b6%b4%e0%b7%96%e0%b6%a2%e0%b7%8a/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/kukulpane-sudassi-himi/තෙසැත්තෑ ඤාණ පූජාව – පූජ්‍ය කුකුල්පනේ සුදස්සී හිමි_Thesathte gna Poojawa – Ven. Kukulpane sudassi himi.pdf",
+    "file_size_mb": 5.39,
+    "sha256_checksum": "96a40a3311e234a667dbea23184f9690afbf51d1329305618884c82e760a574f",
+    "download_timestamp": "2025-11-19T11:12:37.081423",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641484"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "kukulpane-sudassi-himi",
+    "Author": {
+      "name": " Kukulpane sudassi himi",
+      "DOB": "1973-06-08",
+      "Date_of_passing": null
+    },
+    "book_name_si": "කර්මය අභිබවා යන මහේශාක්‍ය බව – පූජ්‍ය කුකුල්පනේ සුදස්සී හිමි",
+    "book_name_en": "Karmaya abhibawa yana maheshakya bawa – Ven. Kukulpane sudassi himi",
+    "number_of_pages": 37,
+    "published_date": "2015-05-22",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmbU91YzhzRkFSakU/view",
+    "post_url": "https://download.ifbcnet.org/2015/05/22/%e0%b6%9a%e0%b6%bb%e0%b7%8a%e0%b6%b8%e0%b6%ba-%e0%b6%85%e0%b6%b7%e0%b7%92%e0%b6%b6%e0%b7%80%e0%b7%8f-%e0%b6%ba%e0%b6%b1-%e0%b6%b8%e0%b7%84%e0%b7%9a%e0%b7%81%e0%b7%8f%e0%b6%9a%e0%b7%8a%e2%80%8d/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/kukulpane-sudassi-himi/කර්මය අභිබවා යන මහේශාක්‍ය බව – පූජ්‍ය කුකුල්පනේ සුදස්සී හිමි_Karmaya abhibawa yana maheshakya bawa – Ven. Kukulpane sudassi himi.pdf",
+    "file_size_mb": 4.37,
+    "sha256_checksum": "7d649ad4edf8e86b6213e9bc002997c540e6720c1a8544cf59562f3ce8f6c6fe",
+    "download_timestamp": "2025-11-19T11:12:42.719036",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Author presumed alive - copyright active",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641490"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "mr-amaradasa-rathanapala",
+    "Author": {
+      "name": "Mr. Amaradasa Rathanapala",
+      "DOB": "1903-01-08",
+      "Date_of_passing": "2001-10-13"
+    },
+    "book_name_si": "අභිධර්ම ප්‍රදීපිකා",
+    "book_name_en": "පළමු පොත ) – අමරදාස රතනපාල මහතා ( Abhidharma Pradeepika ( 1st book ) – Mr. Amaradasa Rathanapala",
+    "number_of_pages": 128,
+    "published_date": "2015-05-19",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmbWNGUTVyeWIxX00/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/05/19/%e0%b6%85%e0%b6%b7%e0%b7%92%e0%b6%b0%e0%b6%bb%e0%b7%8a%e0%b6%b8-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%93%e0%b6%b4%e0%b7%92%e0%b6%9a%e0%b7%8f-%e0%b6%b4%e0%b7%85%e0%b6%b8%e0%b7%94/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/mr-amaradasa-rathanapala/අභිධර්ම ප්‍රදීපිකා_පළමු පොත ) – අමරදාස රතනපාල මහතා ( Abhidharma Pradeepika ( 1st book ) – Mr. Amaradasa Rathanapala.pdf",
+    "file_size_mb": 66.8,
+    "sha256_checksum": "bf66e37716a8f23778a5c3c1c45eb1c3b9c75fb6f7b9cbe6847c11c4c0765d33",
+    "download_timestamp": "2025-11-19T11:12:59.846514",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 2001, protection ends 2071 (46 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641498"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "mr-amaradasa-rathanapala",
+    "Author": {
+      "name": "Mr. Amaradasa Rathanapala",
+      "DOB": "1903-01-08",
+      "Date_of_passing": "2001-10-13"
+    },
+    "book_name_si": "අභිධර්ම ප්‍රදීපිකා",
+    "book_name_en": "දෙවන පොත ) – අමරදාස රතනපාල මහතා ( Abhidharma Pradeepika ( 2nd book ) – Mr. Amaradasa Rathanapala",
+    "number_of_pages": null,
+    "published_date": "2015-05-19",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmNEZCTExGalVBSjg/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/05/19/%e0%b6%85%e0%b6%b7%e0%b7%92%e0%b6%b0%e0%b6%bb%e0%b7%8a%e0%b6%b8-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%93%e0%b6%b4%e0%b7%92%e0%b6%9a%e0%b7%8f-%e0%b6%af%e0%b7%99%e0%b7%80%e0%b6%b1/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/mr-amaradasa-rathanapala/අභිධර්ම ප්‍රදීපිකා_දෙවන පොත ) – අමරදාස රතනපාල මහතා ( Abhidharma Pradeepika ( 2nd book ) – Mr. Amaradasa Rathanapala.pdf",
+    "file_size_mb": 100.63,
+    "sha256_checksum": "bea675a34a2d90783d603a78199085653027c58b8f55521a795b0664a7d09a96",
+    "download_timestamp": "2025-11-19T11:13:06.717392",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 2001, protection ends 2071 (46 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641506"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "mr-amaradasa-rathanapala",
+    "Author": {
+      "name": "Mr. Amaradasa Rathanapala",
+      "DOB": "1903-01-08",
+      "Date_of_passing": "2001-10-13"
+    },
+    "book_name_si": "අභිධර්ම ප්‍රදීපිකා",
+    "book_name_en": "තුන්වන පොත ) – අමරදාස රතනපාල මහතා ( Abhidharma Pradeepika ( 3rd book ) – Mr. Amaradasa Rathanapala",
+    "number_of_pages": null,
+    "published_date": "2015-05-19",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmbUhOS2xTaGQ4SlU/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/05/19/%e0%b6%85%e0%b6%b7%e0%b7%92%e0%b6%b0%e0%b6%bb%e0%b7%8a%e0%b6%b8-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%93%e0%b6%b4%e0%b7%92%e0%b6%9a%e0%b7%8f-%e0%b6%ad%e0%b7%94%e0%b6%b1%e0%b7%8a/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/mr-amaradasa-rathanapala/අභිධර්ම ප්‍රදීපිකා_තුන්වන පොත ) – අමරදාස රතනපාල මහතා ( Abhidharma Pradeepika ( 3rd book ) – Mr. Amaradasa Rathanapala.pdf",
+    "file_size_mb": 90.01,
+    "sha256_checksum": "28fbe161b308b42fe03ee9aa3d2280ccabef2eb3b7ac7195a1fb0adb53286228",
+    "download_timestamp": "2025-11-19T11:13:22.612510",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 2001, protection ends 2071 (46 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641515"
+    }
+  },
+  {
+    "BaseURL": "https://download.ifbcnet.org/",
+    "Category": "mr-amaradasa-rathanapala",
+    "Author": {
+      "name": "Mr. Amaradasa Rathanapala",
+      "DOB": "1903-01-08",
+      "Date_of_passing": "2001-10-13"
+    },
+    "book_name_si": "අභිධර්ම ප්‍රදීපිකා",
+    "book_name_en": "හතරවන පොත ) – අමරදාස රතනපාල මහතා ( Abhidharma Pradeepika ( 4th book ) – Mr. Amaradasa Rathanapala",
+    "number_of_pages": null,
+    "published_date": "2015-05-19",
+    "download_url": "https://drive.google.com/file/d/0B5RD8Fve5lhmZUNlSzdheU0tVkE/view?usp=sharing",
+    "post_url": "https://download.ifbcnet.org/2015/05/19/%e0%b6%85%e0%b6%b7%e0%b7%92%e0%b6%b0%e0%b6%bb%e0%b7%8a%e0%b6%b8-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%93%e0%b6%b4%e0%b7%92%e0%b6%9a%e0%b7%8f-%e0%b7%84%e0%b6%ad%e0%b6%bb%e0%b7%80/",
+    "local_path": "/content/drive/Othercomputers/My Mac/Multi-lingual-Buddhist-Conversational-Agent/data/raw/mr-amaradasa-rathanapala/අභිධර්ම ප්‍රදීපිකා_හතරවන පොත ) – අමරදාස රතනපාල මහතා ( Abhidharma Pradeepika ( 4th book ) – Mr. Amaradasa Rathanapala.pdf",
+    "file_size_mb": 113.22,
+    "sha256_checksum": "4ddb4164dcd65dcc6a9fbbbec7a7a95ca89572d52bdf2695c8206e034d8805e1",
+    "download_timestamp": "2025-11-19T11:13:29.064962",
+    "copyright_analysis": {
+      "can_include_in_corpus": false,
+      "reason": "Copyright protected - author died in 2001, protection ends 2071 (46 years remaining)",
+      "confidence": "high",
+      "analysis_date": "2025-11-23T12:31:44.641522"
+    }
+  }
+]
