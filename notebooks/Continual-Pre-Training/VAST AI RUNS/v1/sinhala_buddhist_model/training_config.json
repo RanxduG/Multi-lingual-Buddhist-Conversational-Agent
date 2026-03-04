@@ -1,0 +1,9 @@
+{
+  "base_model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "max_seq_length": 512,
+  "lora_r": 64,
+  "lora_alpha": 16,
+  "learning_rate": 0.0002,
+  "num_epochs": 3,
+  "training_date": "2026-01-23T21:46:18.731393"
+}
