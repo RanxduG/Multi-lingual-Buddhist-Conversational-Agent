@@ -1,8 +1,23 @@
 # Data
 data/raw/
-*.csv
+data/*.csv
 *.tsv
 *.pdf
+data/1-data-collection
+data/1.1-metadata/author_template (1).csv
+data/1.1-metadata/author_template.gsheet
+data/1.1-metadata/download_progress.json
+data/1.1-metadata/extraction_report.json
+data/1.1-metadata/failed_downloads.json
+data/3-data-extractor
+data/4-data-cleaning-corpus-creation
+data/4.1-pali-lexicon
+data/4.2-corpus-analysis
+data/4.3-corpus
+data/5-webscrapping-tripitaka
+data/6-combining-data
+data/Temp-Not-Needed
+
 data/vision_extractions/1_raw_text/
 data/vision_extractions/2_cleaned_text/
 data/vision_extractions/4_logs/
@@ -14,8 +29,17 @@ data/analysis/*.jsonl
 data/analysis/*.txt
 data/page_classifier_data/images/important/*.png
 data/page_classifier_data/images/not_important/*.png
-
-
+data/corpus
+data/corpus_combined
+data/corpus_training
+data/extracted
+data/qa_data/orkspace/data/
+/docs/LoRes-LM
+/notebooks/Temp-Not-Needed
+to-haritha
+notebooks/14-other-files
+notebooks/8-continual-pre-training/VAST AI RUNS/v1/workspace/sinhala_buddhist_model
+notebooks/8-continual-pre-training/VAST AI RUNS/v1/Sinhala Buddhist Continual Pretraining.parquet
 # Models
 *.pt
 *.pth
@@ -23,7 +47,7 @@ data/page_classifier_data/images/not_important/*.png
 *.bin
 *.h5
 *.pkl
-
+models/2-cnn-page-classifier
 # Logs
 logs/
 runs/
@@ -45,3 +69,10 @@ venv/
 
 # Auth
 Auth/*.json
+
+
+*.zip
+notebooks/Continual-Pre-Training/VAST AI RUNS/v1/workspace/sinhala_buddhist_model/checkpoints
+notebooks/Continual-Pre-Training/VAST AI RUNS/v1/workspace/sinhala_buddhist_model/lora_adapters
+notebooks/Continual-Pre-Training/VAST AI RUNS/v1/workspace
+notebooks/8-continual-pre-training/VAST AI RUNS/v1/workspace
