@@ -1,0 +1,24 @@
+{
+  "hf_model": "RaniduG/sinhala-buddhist-llama-merged",
+  "embedding_model": "intfloat/multilingual-e5-large",
+  "vector_db_path": "/workspace/to-haritha/data/qdrant_storage",
+  "collection_name": "tripitaka_passages",
+  "data_source": "/workspace/to-haritha/data/webscrapping",
+  "statistics": {
+    "total_files": 146,
+    "total_suttas": 2446,
+    "total_chunks": 17785,
+    "sinhala_chunks": 11414,
+    "pali_chunks": 6371,
+    "by_nikaya": {
+      "අංගුත්තර නිකාය": 7325,
+      "දීඝ නිකාය": 2773,
+      "ඛුද්දක නිකාය": 3466,
+      "මජ්ඣිම නිකාය": 4100,
+      "සංයුත්ත නිකාය": 121
+    }
+  },
+  "chunk_size": 400,
+  "chunk_overlap": 50,
+  "top_k": 5
+}

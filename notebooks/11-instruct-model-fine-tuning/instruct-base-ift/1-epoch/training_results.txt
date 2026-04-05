@@ -1,0 +1,57 @@
+<training Results>
+
+============================================================
+
+STARTING TRAINING
+
+============================================================
+
+Epochs : 1
+
+LR : 0.0002
+
+Batch size : 2 × 8 grad accum = 16 effective
+
+Train samples: 8798
+
+
+
+🚀 Initiating training...
+
+💡 (If a checkpoint exists in the output folder, it will automatically resume. Otherwise, it starts from scratch.)
+
+[550/550 1:25:12, Epoch 1/1]
+
+Step Training Loss Validation Loss
+
+100 0.217857 0.218662
+
+200 0.203147 0.200598
+
+300 0.178687 0.186440
+
+400 0.161821 0.174417
+
+500 0.155506 0.167513
+
+<training Results>
+
+
+
+<test without rag>
+
+Sample (EN):
+
+Q : What is the complete state described in this passage?
+
+A : "රවුමෙනුත් පිරිහිලා යනවා" යන පාඨය අනුව මෙහි විස්තර කරන තත්ත්වය නම් නිර්වාණ තත්ත්වයයි. නිර්වාණ තත්වය නම් මින් මිදී මිදී මුක්ත වී නිසි බව සිද්ධ �...
+
+
+
+Sample (Si):
+
+Q : මෙම පාඨයෙන් විස්තර කෙරෙන සම්පූර්ණ තත්ත්වය කුමක්ද?
+
+A : මෙම පාඨය අනුවර්තනය නම් "මින් මින් පිරිහෙන දුටු මින්" යන අර්ථය දෙන අනුවාද පාඨය නම් වේ. මෙම පාඨය අනුවර්තනය නම් මින් මින් පිරිහෙන දුටු මින් යන අර්...
+
+<test without rag>
