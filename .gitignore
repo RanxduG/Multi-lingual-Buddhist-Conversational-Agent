@@ -78,3 +78,4 @@ notebooks/Continual-Pre-Training/VAST AI RUNS/v1/workspace
 notebooks/8-continual-pre-training/VAST AI RUNS/v1/workspace
 
 .DS_Store
+*__init__.py
