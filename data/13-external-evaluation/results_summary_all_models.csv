@@ -1,0 +1,5 @@
+Model,Accuracy (%),Correct,Total,Invalid (X),Delta vs Base
+1. Base,2.27,3,132,0,+0.00%
+2. Base + RAG,1.52,2,132,0,-0.75%
+3. LoRA,4.55,6,132,0,+2.28%
+4. LoRA + RAG,9.85,13,132,0,+7.58%
