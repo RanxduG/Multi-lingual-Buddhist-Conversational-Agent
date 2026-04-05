@@ -1,0 +1,2 @@
+Timestamp,Date,Number_of_Models,Number_of_Corpora,Sample_Size_per_Corpus,Diversity_Sampling,Number_of_Clusters,Embedding_Model,Quantization,Max_Sequence_Length
+20251226_163235,2025-12-26 16:32:35,5,3,1024,True,4,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,4-bit,512

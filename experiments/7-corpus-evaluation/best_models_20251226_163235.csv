@@ -1,0 +1,4 @@
+Corpus,Best_Model,Perplexity,Model_Size
+Buddhist Sinhala,Llama-3.1-8B-Instruct,3.289240468390185,8B
+Mixed,Llama-3.1-8B-Instruct,4.175731532536958,8B
+General Sinhala,Llama-3.1-8B-Instruct,3.264069529465108,8B

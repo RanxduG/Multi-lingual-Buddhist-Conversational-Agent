@@ -1,0 +1,41 @@
+{
+  "model": {
+    "base": "meta-llama/Meta-Llama-3.1-8B",
+    "lora_repo": "RaniduG/sinhala-buddhist-llama3.1",
+    "lora_subfolder": "stage2_mixed_adapters"
+  },
+  "config": {
+    "n_clusters": 4,
+    "samples_per_cluster": 256,
+    "total_samples": 1024,
+    "max_length": 512,
+    "use_4bit": true,
+    "general_sinhala_dataset": "uonlp/CulturaX",
+    "general_sinhala_pool_size": 10000,
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+  },
+  "results": {
+    "buddhist_sinhala": {
+      "corpus_perplexity": 2.1367645187686595,
+      "mean_sentence_perplexity": 2.1947897173550617,
+      "median_sentence_perplexity": 2.1257418789401514,
+      "total_sentences": 1024,
+      "evaluated_sentences": 1024
+    },
+    "mixed": {
+      "corpus_perplexity": 1.6274653539255155,
+      "mean_sentence_perplexity": 1.6811131275336526,
+      "median_sentence_perplexity": 1.5270453023846693,
+      "total_sentences": 1024,
+      "evaluated_sentences": 1024
+    },
+    "general_sinhala": {
+      "corpus_perplexity": 3.430316678016725,
+      "mean_sentence_perplexity": 3.6348714580192247,
+      "median_sentence_perplexity": 3.317006811441233,
+      "total_sentences": 1024,
+      "evaluated_sentences": 1024
+    }
+  },
+  "timestamp": "20260311_112219"
+}

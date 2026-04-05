@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "timestamp": "2026-03-13T09:21:01.173833",
+    "base_model": "meta-llama/Meta-Llama-3.1-8B",
+    "adapter_repo": "RaniduG/llama-3.1-8b-ift-buddhist-qa-v5",
+    "merged_repo": "RaniduG/llama-3.1-8b-ift-buddhist-qa-v5-merged",
+    "num_test_examples": 243,
+    "rag_collection": "fallback_qa_corpus",
+    "rag_top_k": 5,
+    "training": {
+      "dataset_file": "/workspace/to-haritha/data/qa_data/approved_dataset.json",
+      "num_epochs": 1,
+      "learning_rate": 0.0002,
+      "lora_r": 16,
+      "lora_alpha": 32,
+      "total_train_examples": 8798,
+      "train_loss": 0.2062556156245145
+    }
+  },
+  "without_rag": [
+    {
+      "id": 0,
+      "question_en": "What is the complete state described in this passage?",
+      "question_si": "මෙම පාඨයෙන් විස්තර කෙරෙන සම්පූර්ණ තත්ත්වය කුමක්ද?",
+      "reference_en": "The state described is one of decline, even from within the cycle.",
+      "reference_si": "සංසාරයෙන් පවා ගිලිහී යන තත්ත්වයක්.",
+      "predicted_en": "\"රවුමෙනුත් පිරිහිලා යනවා\" යන පාඨය අනුව මෙහි විස්තර කරන තත්ත්වය නම් නිර්වාණ තත්ත්වයයි. නිර්වාණ තත්වය නම් මින් මිදී මිදී මුක්ත වී නිසි බව සිද්ධ �",
+      "predicted_si": "මෙම පාඨය අනුවර්තනය නම් \"මින් මින් පිරිහෙන දුටු මින්\" යන අර්ථය දෙන අනුවාද පාඨය නම් වේ. මෙම පාඨය අනුවර්තනය නම් මින් මින් පිරිහෙන දුටු මින් යන අර්"
+    },
+    {
+      "id": 1,
+      "question_en": "What profound concept should a person realize regarding the places where views arise, are embedded, and operate?",
+      "question_si": "දෘෂ්ටි උපදින, කිඳා බසින සහ හැසිරෙන ස්ථාන සම්බන්ධයෙන් පුද්ගලයෙකු අවබෝධ කරගත යුතු ගැඹුරු සංකල්පය කුමක්ද?",
+      "reference_en": "One should realize that the very places where views arise, become ingrained, and function are, through developed wisdom, seen as 'this is not me, this is not mine, this is not my self.'",
+      "reference_si": "ඒ දෘෂ්ටි උපදින, කිඳා බසින, හැසිරෙන තැන්, දියුණු කරගත් ප්‍රඥාවෙන් 'මේ මම නෙවෙයි, මේ මගේ නෙවෙයි, මේ මගේ ආත්මය නෙවෙයි' යනුවෙන් යථාර්ථය දකින එකයි.",
+      "predicted_en": "\"ඉතින් ඔය දෘෂ්ටි උපදින්නේ යම් තැනක ද, ඔය දෘෂ්ටි කිඳා බැස තිබෙන්නෙ යම් තැනක ද, ඔය දෘෂ්ටි හැසිරෙන්නේ යම් තැනක ද, අන්න ඒ තැන ‘මම නොවේ, මගේ නොවේ, මගේ ආ",
+      "predicted_si": "\"මම නොවේ, මගේ නොවේ, මගේ ආත්මය නොවේ\" යන සංකල්පය දෘෂ්ටි උපදින, කිඳා බසින සහ හැසිරෙන ස්ථාන සම්බන්ධයෙන් පුද්ගලයෙකු අවබෝධ කරගත යුතු ගැඹුරු සංකල්පය න"
+    },
+    {
+      "id": 2,
+      "question_en": "How does this sentence practically imply that a person will not speak an untruth even for someone very close to them?",
+      "question_si": "යම් පුද්ගලයෙකු තමාට ඉතා සමීප අයෙකු වෙනුවෙන් වුවද අසත්‍යය ප්‍රකාශ නොකරන බව මෙම වාක්‍යයෙන් ප්‍රායෝගිකව හඟවන්නේ කෙසේද?",
+      "reference_en": "He would not intentionally deceive, even for his wife.",
+      "reference_si": "ඔහු තමන්ගේ බිරිඳ වෙනුවෙන් වුවත්, දැන දැන බොරුවක් නම් කියන්නේ නැහැ.",
+      "predicted_en": "මෙයා නම් තමන්ගේ බිරිඳ උදෙසාවත් දැන දැන බොරුවක් නම් කියන්නේ නෑ යන ප්‍රශ්නය පිළිබඳ පිළිතුරු මෙසේ ය.\n\n\"මෙයා\" යන්නෙන් තමන් තමන් ම අදහස් වෙන අර්ථය ඇත.",
+      "predicted_si": "මෙම වාක්‍යය ප්‍රායෝගිකව මෙසේ අර්ථ නිර්ණය කරන හැකිය.\n\n\"මෙයා නම් තමන්ගේ බිරිඳ උදෙසාවත් දැන දැන බොරුවක් නම් කියන්නේ නෑ\"\n\n\"මෙයා\" යනු මෙම පුද්ගලයා වෙයි. \""
+    },
+    {
+      "id": 3,
+      "question_en": "On what basis do processes like seeing exist repeatedly?",
+      "question_si": "දර්ශනාදිය නැවත නැවත පවතින්නේ කුමන පදනමක් මතද?",
+      "reference_en": "Processes like seeing exist repeatedly because of the law of the mind, known as Citta Niyama.",
+      "reference_si": "චිත්ත නියාමය අනුවයි.",
+      "predicted_en": "දර්ශන ප්‍රතිබිම්බ නියමය අනුව දර්ශන ප්‍රතිබිම්බ නියම යට අනුකූල වශයෙන් දර්ශන ප්‍රතිබිම්බ නියම නැවත නැවත පවතී.\n\n(ප්‍රතිබිම්බ නියම ය අනුව දර්ශන ප්‍�",
+      "predicted_si": "ප්‍රශ්නය පිළිතුරු කිරීම සඳහා පහත ප්‍රකාශනය අනුවරත ගන්න.\n\n\"දර්ශනාදිය චිත්ත නියාමය වශයෙන් නැවත නැවත පවතී\" යන පාඨය අනුවරත බව දර්ශනාදිය චිත්ත නියාම"
+    },
+    {
+      "id": 4,
+      "question_en": "What was the reason for the sound of cicadas not being heard?",
+      "question_si": "රැහැයියන්ගේ හඬ නෑසී යාමට බලපෑ හේතුව කුමක්ද?",
+      "reference_en": "The cicadas' chirping was drowned out by the sounds of elephants, horses, chariots, and infantry, along with the noise from drums, panabera, conch drums, and getabera.",
+      "reference_si": "ඇතුන්ගේ ශබ්දය, අශ්වයන්ගේ ශබ්දය, රථ ශබ්දය, පාබලයන්ගේ ශබ්දය මෙන්ම බෙර, පනාබෙර, සක් බෙර, ගැට බෙර වැනි වාද්‍ය භාණ්ඩවල ශබ්ද නිසා රැහැයියන්ගේ හඬ ඇසෙන්නේ නැත.",
+      "predicted_en": "මේ ප්‍රශ්නය පිළිබඳ පිළිතුරු දෙන්න පහසු නැත. මෙම ප්‍රශ්නය තිබෙන ග්‍රන්ථ මත පදනම් නැත.",
+      "predicted_si": "රැහැයියන්ගේ හඬ නෑසී යාමට බලපෑ හේතුව නම් පහත සඳහන් ශබ්ද නිසා ය.\n\n1. හස්ති ශබ්දය\n2. අශ්ව ශබ්දය\n3. රථ ශබ්දය\n4. පාබල ශබ්දය\n5. බෙර - පනාබෙර - සක් බෙර - ගැට බෙර �"
+    }
+  ],
+  "with_rag": [
+    {
+      "id": 0,
+      "question_en": "According to this passage, describe his mental attitude towards noble clothes.",
+      "question_si": "මෙම පාඨයට අනුව, උදාර වස්ත්‍ර කෙරෙහි ඔහුගේ මානසික ආකල්පය විස්තර කරන්න.",
+      "reference_en": "He doesn't have a particular interest in wearing fine clothes.",
+      "reference_si": "ඔහුට උදාර ඇඳුම් අඳින්න එතරම් උනන්දුවක් නැහැ.",
+      "predicted_en": "[1] ඔහු මිහිදුන හෝ මල්ලක පැහැදි ආදර්ශ නොකරයි.\n\n(He does not tend towards wearing grand or luxurious clothing.)",
+      "predicted_si": "ප්‍රශ්නය සඳහා පිළිතුරුව:\n\n[1] උදාර වස්ත්‍ර ආදිය භාවනා නොකරන පරිදි ඔහුගේ මානසික ආකල්පය මෙම පාඨය විස්තර කරයි.",
+      "rag_passages": [
+        {
+          "text": "His mind does not tend towards wearing grand or luxurious clothing.",
+          "score": 0.876
+        },
+        {
+          "text": "The passage conveys that the person maintained the outward appearance of someone who is virtuous.",
+          "score": 0.8638
+        },
+        {
+          "text": "He is someone who has attained the vision of the Noble Ones.",
+          "score": 0.8606
+        },
+        {
+          "text": "He has the capability to recognize the Noble Ones.",
+          "score": 0.8574
+        },
+        {
+          "text": "The question is about which form of attachment is considered the most noble.",
+          "score": 0.8574
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question_en": "What is the full description used to express remaining in a location upon arriving there?",
+      "question_si": "යම් ස්ථානයකට ගිය විට එම ස්ථානයේ රැඳී සිටින බව ප්‍රකාශ කිරීමට භාවිතා කර ඇති සම්පූර්ණ විස්තරය කුමක්ද?",
+      "reference_en": "Wherever you go, you are present in the place you have arrived.",
+      "reference_si": "යන යන තැනක, ළඟා වූ තැනම රැඳී සිටිනවා.",
+      "predicted_en": "[1] මේ ප්‍රශ්නය සඳහා ප්‍රකාශ වන ග්‍රන්ථ පිළිබඳ ප්‍රතිපලය මත මම පිළිතුරු දෙනවා.\n\n[1] මෙම ප්‍රශ්නය සඳහා ප්‍රකාශ වන ග්‍රන්ථ පිළිබඳ ප්‍රතිපලය මත මම පිළිත",
+      "predicted_si": "[1] මෙම ප්‍රශ්නය ගැන පිළිතුරු දෙන්නට පහසුව නැත. නමුත් ප්‍රශ්නය ගැන අර්ථ නිරූපනය වන පාඨය පහත දක්වනුය.\n\n[2] මෙම ප්‍රශ්නය ගැන පිළිතුරු දෙන්නට පහසුව නැ",
+      "rag_passages": [
+        {
+          "text": "The text describes the location as where the Blessed One was staying.",
+          "score": 0.8229
+        },
+        {
+          "text": "No matter where a person goes, they find themselves standing in the places they have already been.",
+          "score": 0.8187
+        },
+        {
+          "text": "The complete statement used to express that something is bound is \"It is bound right here.\"",
+          "score": 0.8185
+        },
+        {
+          "text": "The purpose of arriving is stated as going to the human world.",
+          "score": 0.8159
+        },
+        {
+          "text": "The passage describes someone who has reached a state of not moving towards decline.",
+          "score": 0.8084
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question_en": "What mental practice is described in this passage?",
+      "question_si": "මෙම පාඨය මගින් විස්තර කෙරෙන මානසික පිළිවෙත කුමක්ද?",
+      "reference_en": "The passage describes the mental practice of purifying the mind from unrighteous greed.",
+      "reference_si": "අධර්මිෂ්ඨ ලෝභයෙන් සිත පිරිසිදු කරන පිළිවෙත.",
+      "predicted_en": "[1] මේ පාසල මන පිහිකීම පිළිබඳ හැකියාව වර්ණනා කරයි.\n\n[2] මේ පාසල මන පිහිකීම පිළිබඳ මන ගුණ වර්ණනා කරයි.\n\n[3] මේ පාසල මන පිහිකීම පිළිබඳ ශීල පිළිපැදීම පිළි",
+      "predicted_si": "[1] මෙම පාඨය මගින් විස්තර කෙරෙන මානසික පිළිවෙත මින්තිය හිත තබා ගැනීම සඳහා ප්‍රතිබිම විය හැක.\n\n[2] මෙම පාඨය මගින් විස්තර කෙරෙන මානසික පිළිවෙත මින්ත�",
+      "rag_passages": [
+        {
+          "text": "The passage describes the ability to concentrate the mind.",
+          "score": 0.8822
+        },
+        {
+          "text": "The mental nature being described is one of concentration.",
+          "score": 0.8636
+        },
+        {
+          "text": "The passage emphasizes engaging in virtuous conduct through the mind.",
+          "score": 0.8545
+        },
+        {
+          "text": "The passage defines perception as this.",
+          "score": 0.8518
+        },
+        {
+          "text": "The text indicates physical preparation by mentioning keeping the body straight, and mental preparation through establishing mindfulness on the meditation object.",
+          "score": 0.8517
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question_en": "In what manner are the mental conceptions (vitarka) that arise when a person experiences a taste established within the world?",
+      "question_si": "පුද්ගලයෙකු රසයක් අත්විඳින විට ඇතිවන මානසික සංකල්පනා (විතර්ක) ලෝකය තුළ ස්ථාපිත වී ඇත්තේ කිනම් ආකාරයකින්ද?",
+      "reference_en": "They are established in the world as having a pleasant and sweet nature.",
+      "reference_si": "ඒවා ලෝකය තුළ ප්‍රිය උපදවන සුළු සහ මිහිරි ගුණාංග සහිත දේවල් ලෙස පවතී.",
+      "predicted_en": "කාම සහ විතර්ක නම් මූල සංකල්ප ය. මූල සංකල්ප නම් මූල සංකල්ප පිරිසිදු බව සහ නිර්මාණ බව ය. මූල සංකල්ප පිරිසිදු බව නම් ඒවා නිර්මාණ නොවන බව ය. මූල සංක",
+      "predicted_si": "පුද්ගලයෙකු රසයක් අත්විඳින විට ඇතිවන මානසික සංකල්පනා (විතර්ක) ලෝකය තුළ ස්ථාපිත වී ඇත්තේ ප්‍රශ්න සංකල්ප තාත්පර මානසික සංකල්ප තාත්පර නම් වේ.",
+      "rag_passages": [
+        {
+          "text": "The thoughts, or vitarka, that arise concerning tastes perceived by the tongue.",
+          "score": 0.8875
+        },
+        {
+          "text": "To practically identify where craving arises, one should examine the intention that forms around sensory objects or experiences that arise in the mind.",
+          "score": 0.8308
+        },
+        {
+          "text": "During the experience of smelling something, consciousness is drawn into the smell-object.",
+          "score": 0.8307
+        },
+        {
+          "text": "The tongue is the faculty through which tastes are known.",
+          "score": 0.8305
+        },
+        {
+          "text": "Vitarka and Vichara are called verbal formations because they are the mental processes that prepare and articulate the sounds of speech.",
+          "score": 0.8275
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question_en": "What was the primary reason for the Buddha visiting the Aggalava temple?",
+      "question_si": "බුදුරජාණන් වහන්සේ අග්ගාලව වෙහෙරට වැඩම කිරීමට මූලික වූ හේතුව කුමක්ද?",
+      "reference_en": "The Buddha visited the Aggalava temple because he saw that many people would benefit from the presence of that noble daughter.",
+      "reference_si": "ඒ උතුම් දියණිය නිසා බොහෝ දෙනෙකුට යහපතක් වන බව දුටු බැවිනි.",
+      "predicted_en": "[5] බුද්ධ වරයන් ගේ මේ ස්ථානය පිළිබඳ මා පැවිදි වී ඇත්තේ මේ දෙන මා පැවිදි වී ඇත්තේ මේ දෙන බුද්ධ වරයන් ගේ මේ ස්ථානය පිළිබඳ මා පැවිදි වී ඇත්තේ මේ දෙ�",
+      "predicted_si": "ප්‍රශ්නය පිළිබඳ පිළිතුරුව:\n\n1 පාඨය අනුස්මරණය කරන විට බුදුරජාණන් වහන්සේ අග්ගාලව වෙහෙරට වැඩම කිරීම මූලික වූ හේතුව බුද්ධ ධම් දේසන සඳහා ප්‍රයෝජන වන �",
+      "rag_passages": [
+        {
+          "text": "Upon arriving at the temple, he first worshiped the Buddha, then sat to one side and informed the Buddha of the matter.",
+          "score": 0.8091
+        },
+        {
+          "text": "The deities are paying homage to or attending upon the Buddha.",
+          "score": 0.8061
+        },
+        {
+          "text": "The text connects the Buddha's visit to Mahiyangana with the later account of the stupa being established at that very spot.",
+          "score": 0.8022
+        },
+        {
+          "text": "A person should take refuge in the Buddha with understanding.",
+          "score": 0.7999
+        },
+        {
+          "text": "The Buddha had a thought occur to him.",
+          "score": 0.7998
+        }
+      ]
+    }
+  ]
+}
